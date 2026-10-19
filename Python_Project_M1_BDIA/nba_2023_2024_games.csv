@@ -1,0 +1,1320 @@
+Date,AwayTeam,HomeTeam,AwayPts,HomePts
+"Tue, Oct 24, 2023",Los Angeles Lakers,Denver Nuggets,107,119
+"Tue, Oct 24, 2023",Phoenix Suns,Golden State Warriors,108,104
+"Wed, Oct 25, 2023",Houston Rockets,Orlando Magic,86,116
+"Wed, Oct 25, 2023",Boston Celtics,New York Knicks,108,104
+"Wed, Oct 25, 2023",Washington Wizards,Indiana Pacers,120,143
+"Wed, Oct 25, 2023",Atlanta Hawks,Charlotte Hornets,110,116
+"Wed, Oct 25, 2023",Detroit Pistons,Miami Heat,102,103
+"Wed, Oct 25, 2023",Minnesota Timberwolves,Toronto Raptors,94,97
+"Wed, Oct 25, 2023",Cleveland Cavaliers,Brooklyn Nets,114,113
+"Wed, Oct 25, 2023",New Orleans Pelicans,Memphis Grizzlies,111,104
+"Wed, Oct 25, 2023",Oklahoma City Thunder,Chicago Bulls,124,104
+"Wed, Oct 25, 2023",Sacramento Kings,Utah Jazz,130,114
+"Wed, Oct 25, 2023",Dallas Mavericks,San Antonio Spurs,126,119
+"Wed, Oct 25, 2023",Portland Trail Blazers,Los Angeles Clippers,111,123
+"Thu, Oct 26, 2023",Philadelphia 76ers,Milwaukee Bucks,117,118
+"Thu, Oct 26, 2023",Phoenix Suns,Los Angeles Lakers,95,100
+"Fri, Oct 27, 2023",Denver Nuggets,Memphis Grizzlies,108,104
+"Fri, Oct 27, 2023",Detroit Pistons,Charlotte Hornets,111,99
+"Fri, Oct 27, 2023",New York Knicks,Atlanta Hawks,126,120
+"Fri, Oct 27, 2023",Oklahoma City Thunder,Cleveland Cavaliers,108,105
+"Fri, Oct 27, 2023",Miami Heat,Boston Celtics,111,119
+"Fri, Oct 27, 2023",Toronto Raptors,Chicago Bulls,103,104
+"Fri, Oct 27, 2023",Houston Rockets,San Antonio Spurs,122,126
+"Fri, Oct 27, 2023",Brooklyn Nets,Dallas Mavericks,120,125
+"Fri, Oct 27, 2023",Los Angeles Clippers,Utah Jazz,118,120
+"Fri, Oct 27, 2023",Orlando Magic,Portland Trail Blazers,102,97
+"Fri, Oct 27, 2023",Golden State Warriors,Sacramento Kings,122,114
+"Sat, Oct 28, 2023",Chicago Bulls,Detroit Pistons,102,118
+"Sat, Oct 28, 2023",Memphis Grizzlies,Washington Wizards,106,113
+"Sat, Oct 28, 2023",New York Knicks,New Orleans Pelicans,87,96
+"Sat, Oct 28, 2023",Indiana Pacers,Cleveland Cavaliers,125,113
+"Sat, Oct 28, 2023",Philadelphia 76ers,Toronto Raptors,114,107
+"Sat, Oct 28, 2023",Miami Heat,Minnesota Timberwolves,90,106
+"Sat, Oct 28, 2023",Utah Jazz,Phoenix Suns,104,126
+"Sun, Oct 29, 2023",Denver Nuggets,Oklahoma City Thunder,128,95
+"Sun, Oct 29, 2023",Golden State Warriors,Houston Rockets,106,95
+"Sun, Oct 29, 2023",Atlanta Hawks,Milwaukee Bucks,127,110
+"Sun, Oct 29, 2023",Portland Trail Blazers,Philadelphia 76ers,98,126
+"Sun, Oct 29, 2023",San Antonio Spurs,Los Angeles Clippers,83,123
+"Sun, Oct 29, 2023",Los Angeles Lakers,Sacramento Kings,127,132
+"Mon, Oct 30, 2023",Chicago Bulls,Indiana Pacers,112,105
+"Mon, Oct 30, 2023",Boston Celtics,Washington Wizards,126,107
+"Mon, Oct 30, 2023",Brooklyn Nets,Charlotte Hornets,133,121
+"Mon, Oct 30, 2023",Portland Trail Blazers,Toronto Raptors,99,91
+"Mon, Oct 30, 2023",Minnesota Timberwolves,Atlanta Hawks,113,127
+"Mon, Oct 30, 2023",Dallas Mavericks,Memphis Grizzlies,125,110
+"Mon, Oct 30, 2023",Miami Heat,Milwaukee Bucks,114,122
+"Mon, Oct 30, 2023",Golden State Warriors,New Orleans Pelicans,130,102
+"Mon, Oct 30, 2023",Detroit Pistons,Oklahoma City Thunder,112,124
+"Mon, Oct 30, 2023",Utah Jazz,Denver Nuggets,102,110
+"Mon, Oct 30, 2023",Orlando Magic,Los Angeles Lakers,103,106
+"Tue, Oct 31, 2023",New York Knicks,Cleveland Cavaliers,109,91
+"Tue, Oct 31, 2023",San Antonio Spurs,Phoenix Suns,115,114
+"Tue, Oct 31, 2023",Orlando Magic,Los Angeles Clippers,102,118
+"Wed, Nov 1, 2023",Portland Trail Blazers,Detroit Pistons,110,101
+"Wed, Nov 1, 2023",Milwaukee Bucks,Toronto Raptors,111,130
+"Wed, Nov 1, 2023",Washington Wizards,Atlanta Hawks,121,130
+"Wed, Nov 1, 2023",Indiana Pacers,Boston Celtics,104,155
+"Wed, Nov 1, 2023",Brooklyn Nets,Miami Heat,109,105
+"Wed, Nov 1, 2023",Cleveland Cavaliers,New York Knicks,95,89
+"Wed, Nov 1, 2023",New Orleans Pelicans,Oklahoma City Thunder,110,106
+"Wed, Nov 1, 2023",Charlotte Hornets,Houston Rockets,119,128
+"Wed, Nov 1, 2023",Denver Nuggets,Minnesota Timberwolves,89,110
+"Wed, Nov 1, 2023",Chicago Bulls,Dallas Mavericks,105,114
+"Wed, Nov 1, 2023",Memphis Grizzlies,Utah Jazz,109,133
+"Wed, Nov 1, 2023",Sacramento Kings,Golden State Warriors,101,102
+"Wed, Nov 1, 2023",Los Angeles Clippers,Los Angeles Lakers,125,130
+"Thu, Nov 2, 2023",Toronto Raptors,Philadelphia 76ers,99,114
+"Thu, Nov 2, 2023",Detroit Pistons,New Orleans Pelicans,116,125
+"Thu, Nov 2, 2023",Orlando Magic,Utah Jazz,115,113
+"Thu, Nov 2, 2023",San Antonio Spurs,Phoenix Suns,132,121
+"Fri, Nov 3, 2023",Cleveland Cavaliers,Indiana Pacers,116,121
+"Fri, Nov 3, 2023",New York Knicks,Milwaukee Bucks,105,110
+"Fri, Nov 3, 2023",Brooklyn Nets,Chicago Bulls,109,107
+"Fri, Nov 3, 2023",Washington Wizards,Miami Heat,114,121
+"Fri, Nov 3, 2023",Golden State Warriors,Oklahoma City Thunder,141,139
+"Fri, Nov 3, 2023",Dallas Mavericks,Denver Nuggets,114,125
+"Fri, Nov 3, 2023",Memphis Grizzlies,Portland Trail Blazers,113,115
+"Sat, Nov 4, 2023",Phoenix Suns,Philadelphia 76ers,100,112
+"Sat, Nov 4, 2023",Charlotte Hornets,Indiana Pacers,125,124
+"Sat, Nov 4, 2023",Atlanta Hawks,New Orleans Pelicans,123,105
+"Sat, Nov 4, 2023",Los Angeles Lakers,Orlando Magic,101,120
+"Sat, Nov 4, 2023",Boston Celtics,Brooklyn Nets,124,114
+"Sat, Nov 4, 2023",Sacramento Kings,Houston Rockets,89,107
+"Sat, Nov 4, 2023",Utah Jazz,Minnesota Timberwolves,95,123
+"Sat, Nov 4, 2023",Chicago Bulls,Denver Nuggets,101,123
+"Sun, Nov 5, 2023",Phoenix Suns,Detroit Pistons,120,106
+"Sun, Nov 5, 2023",Toronto Raptors,San Antonio Spurs,123,116
+"Sun, Nov 5, 2023",Golden State Warriors,Cleveland Cavaliers,104,115
+"Sun, Nov 5, 2023",Charlotte Hornets,Dallas Mavericks,118,124
+"Sun, Nov 5, 2023",Memphis Grizzlies,Portland Trail Blazers,112,100
+"Mon, Nov 6, 2023",Golden State Warriors,Detroit Pistons,120,109
+"Mon, Nov 6, 2023",San Antonio Spurs,Indiana Pacers,111,152
+"Mon, Nov 6, 2023",Dallas Mavericks,Orlando Magic,117,102
+"Mon, Nov 6, 2023",Washington Wizards,Philadelphia 76ers,128,146
+"Mon, Nov 6, 2023",Milwaukee Bucks,Brooklyn Nets,129,125
+"Mon, Nov 6, 2023",Los Angeles Lakers,Miami Heat,107,108
+"Mon, Nov 6, 2023",Los Angeles Clippers,New York Knicks,97,111
+"Mon, Nov 6, 2023",Utah Jazz,Chicago Bulls,113,130
+"Mon, Nov 6, 2023",Sacramento Kings,Houston Rockets,97,122
+"Mon, Nov 6, 2023",Boston Celtics,Minnesota Timberwolves,109,114
+"Mon, Nov 6, 2023",Atlanta Hawks,Oklahoma City Thunder,117,126
+"Mon, Nov 6, 2023",New Orleans Pelicans,Denver Nuggets,116,134
+"Wed, Nov 8, 2023",Washington Wizards,Charlotte Hornets,132,116
+"Wed, Nov 8, 2023",Utah Jazz,Indiana Pacers,118,134
+"Wed, Nov 8, 2023",Boston Celtics,Philadelphia 76ers,103,106
+"Wed, Nov 8, 2023",Los Angeles Clippers,Brooklyn Nets,93,100
+"Wed, Nov 8, 2023",San Antonio Spurs,New York Knicks,105,126
+"Wed, Nov 8, 2023",Phoenix Suns,Chicago Bulls,116,115
+"Wed, Nov 8, 2023",Los Angeles Lakers,Houston Rockets,94,128
+"Wed, Nov 8, 2023",Miami Heat,Memphis Grizzlies,108,102
+"Wed, Nov 8, 2023",Detroit Pistons,Milwaukee Bucks,118,120
+"Wed, Nov 8, 2023",New Orleans Pelicans,Minnesota Timberwolves,101,122
+"Wed, Nov 8, 2023",Cleveland Cavaliers,Oklahoma City Thunder,120,128
+"Wed, Nov 8, 2023",Toronto Raptors,Dallas Mavericks,127,116
+"Wed, Nov 8, 2023",Golden State Warriors,Denver Nuggets,105,108
+"Wed, Nov 8, 2023",Portland Trail Blazers,Sacramento Kings,118,121
+"Thu, Nov 9, 2023",Milwaukee Bucks,Indiana Pacers,124,126
+"Thu, Nov 9, 2023",Atlanta Hawks,Orlando Magic,120,119
+"Fri, Nov 10, 2023",Philadelphia 76ers,Detroit Pistons,114,106
+"Fri, Nov 10, 2023",Charlotte Hornets,Washington Wizards,124,117
+"Fri, Nov 10, 2023",Brooklyn Nets,Boston Celtics,107,121
+"Fri, Nov 10, 2023",New Orleans Pelicans,Houston Rockets,101,104
+"Fri, Nov 10, 2023",Utah Jazz,Memphis Grizzlies,127,121
+"Fri, Nov 10, 2023",Minnesota Timberwolves,San Antonio Spurs,117,110
+"Fri, Nov 10, 2023",Los Angeles Clippers,Dallas Mavericks,126,144
+"Fri, Nov 10, 2023",Los Angeles Lakers,Phoenix Suns,122,119
+"Fri, Nov 10, 2023",Oklahoma City Thunder,Sacramento Kings,98,105
+"Sat, Nov 11, 2023",Milwaukee Bucks,Orlando Magic,97,112
+"Sat, Nov 11, 2023",Toronto Raptors,Boston Celtics,94,117
+"Sat, Nov 11, 2023",Miami Heat,Atlanta Hawks,117,109
+"Sat, Nov 11, 2023",Cleveland Cavaliers,Golden State Warriors,118,110
+"Sun, Nov 12, 2023",Charlotte Hornets,New York Knicks,107,129
+"Sun, Nov 12, 2023",Washington Wizards,Brooklyn Nets,94,102
+"Sun, Nov 12, 2023",Memphis Grizzlies,Los Angeles Clippers,105,101
+"Sun, Nov 12, 2023",Indiana Pacers,Philadelphia 76ers,126,137
+"Sun, Nov 12, 2023",Detroit Pistons,Chicago Bulls,108,119
+"Sun, Nov 12, 2023",Denver Nuggets,Houston Rockets,104,107
+"Sun, Nov 12, 2023",Dallas Mavericks,New Orleans Pelicans,136,124
+"Sun, Nov 12, 2023",Miami Heat,San Antonio Spurs,118,113
+"Sun, Nov 12, 2023",Oklahoma City Thunder,Phoenix Suns,111,99
+"Sun, Nov 12, 2023",Minnesota Timberwolves,Golden State Warriors,116,110
+"Sun, Nov 12, 2023",Portland Trail Blazers,Los Angeles Lakers,110,116
+"Mon, Nov 13, 2023",New York Knicks,Boston Celtics,98,114
+"Mon, Nov 13, 2023",Washington Wizards,Toronto Raptors,107,111
+"Mon, Nov 13, 2023",Chicago Bulls,Milwaukee Bucks,109,118
+"Mon, Nov 13, 2023",Cleveland Cavaliers,Sacramento Kings,120,132
+"Tue, Nov 14, 2023",Miami Heat,Charlotte Hornets,111,105
+"Tue, Nov 14, 2023",Atlanta Hawks,Detroit Pistons,126,120
+"Tue, Nov 14, 2023",Indiana Pacers,Philadelphia 76ers,132,126
+"Tue, Nov 14, 2023",Orlando Magic,Brooklyn Nets,104,124
+"Tue, Nov 14, 2023",San Antonio Spurs,Oklahoma City Thunder,87,123
+"Tue, Nov 14, 2023",Dallas Mavericks,New Orleans Pelicans,110,131
+"Tue, Nov 14, 2023",Portland Trail Blazers,Utah Jazz,99,115
+"Tue, Nov 14, 2023",Los Angeles Clippers,Denver Nuggets,108,111
+"Tue, Nov 14, 2023",Minnesota Timberwolves,Golden State Warriors,104,101
+"Tue, Nov 14, 2023",Memphis Grizzlies,Los Angeles Lakers,107,134
+"Wed, Nov 15, 2023",Dallas Mavericks,Washington Wizards,130,117
+"Wed, Nov 15, 2023",New York Knicks,Atlanta Hawks,116,114
+"Wed, Nov 15, 2023",Boston Celtics,Philadelphia 76ers,117,107
+"Wed, Nov 15, 2023",Milwaukee Bucks,Toronto Raptors,128,112
+"Wed, Nov 15, 2023",Orlando Magic,Chicago Bulls,96,94
+"Wed, Nov 15, 2023",Minnesota Timberwolves,Phoenix Suns,115,133
+"Wed, Nov 15, 2023",Sacramento Kings,Los Angeles Lakers,125,110
+"Wed, Nov 15, 2023",Cleveland Cavaliers,Portland Trail Blazers,109,95
+"Thu, Nov 16, 2023",Brooklyn Nets,Miami Heat,115,122
+"Thu, Nov 16, 2023",Oklahoma City Thunder,Golden State Warriors,128,109
+"Fri, Nov 17, 2023",Milwaukee Bucks,Charlotte Hornets,130,99
+"Fri, Nov 17, 2023",New York Knicks,Washington Wizards,120,99
+"Fri, Nov 17, 2023",Philadelphia 76ers,Atlanta Hawks,126,116
+"Fri, Nov 17, 2023",Detroit Pistons,Cleveland Cavaliers,100,108
+"Fri, Nov 17, 2023",Sacramento Kings,San Antonio Spurs,129,120
+"Fri, Nov 17, 2023",Boston Celtics,Toronto Raptors,108,105
+"Fri, Nov 17, 2023",Orlando Magic,Chicago Bulls,103,97
+"Fri, Nov 17, 2023",Denver Nuggets,New Orleans Pelicans,110,115
+"Fri, Nov 17, 2023",Los Angeles Lakers,Portland Trail Blazers,107,95
+"Fri, Nov 17, 2023",Phoenix Suns,Utah Jazz,131,128
+"Fri, Nov 17, 2023",Houston Rockets,Los Angeles Clippers,100,106
+"Sat, Nov 18, 2023",New York Knicks,Charlotte Hornets,122,108
+"Sat, Nov 18, 2023",Minnesota Timberwolves,New Orleans Pelicans,121,120
+"Sat, Nov 18, 2023",Miami Heat,Chicago Bulls,97,102
+"Sat, Nov 18, 2023",Dallas Mavericks,Milwaukee Bucks,125,132
+"Sat, Nov 18, 2023",Memphis Grizzlies,San Antonio Spurs,120,108
+"Sat, Nov 18, 2023",Oklahoma City Thunder,Golden State Warriors,130,123
+"Sun, Nov 19, 2023",Philadelphia 76ers,Brooklyn Nets,121,99
+"Sun, Nov 19, 2023",Detroit Pistons,Toronto Raptors,113,142
+"Sun, Nov 19, 2023",Orlando Magic,Indiana Pacers,128,116
+"Sun, Nov 19, 2023",Denver Nuggets,Cleveland Cavaliers,109,121
+"Sun, Nov 19, 2023",Sacramento Kings,Dallas Mavericks,129,113
+"Sun, Nov 19, 2023",Boston Celtics,Memphis Grizzlies,102,100
+"Sun, Nov 19, 2023",Phoenix Suns,Utah Jazz,140,137
+"Sun, Nov 19, 2023",Oklahoma City Thunder,Portland Trail Blazers,134,91
+"Sun, Nov 19, 2023",Houston Rockets,Los Angeles Lakers,104,105
+"Mon, Nov 20, 2023",Boston Celtics,Charlotte Hornets,118,121
+"Mon, Nov 20, 2023",Denver Nuggets,Detroit Pistons,107,103
+"Mon, Nov 20, 2023",Milwaukee Bucks,Washington Wizards,142,129
+"Mon, Nov 20, 2023",Miami Heat,Chicago Bulls,118,100
+"Mon, Nov 20, 2023",New York Knicks,Minnesota Timberwolves,100,117
+"Mon, Nov 20, 2023",Sacramento Kings,New Orleans Pelicans,93,129
+"Mon, Nov 20, 2023",Los Angeles Clippers,San Antonio Spurs,124,99
+"Mon, Nov 20, 2023",Houston Rockets,Golden State Warriors,116,121
+"Tue, Nov 21, 2023",Toronto Raptors,Orlando Magic,107,126
+"Tue, Nov 21, 2023",Indiana Pacers,Atlanta Hawks,157,152
+"Tue, Nov 21, 2023",Cleveland Cavaliers,Philadelphia 76ers,122,119
+"Tue, Nov 21, 2023",Portland Trail Blazers,Phoenix Suns,107,120
+"Tue, Nov 21, 2023",Utah Jazz,Los Angeles Lakers,99,131
+"Wed, Nov 22, 2023",Washington Wizards,Charlotte Hornets,114,117
+"Wed, Nov 22, 2023",Denver Nuggets,Orlando Magic,119,124
+"Wed, Nov 22, 2023",Brooklyn Nets,Atlanta Hawks,145,147
+"Wed, Nov 22, 2023",Milwaukee Bucks,Boston Celtics,116,119
+"Wed, Nov 22, 2023",Miami Heat,Cleveland Cavaliers,129,96
+"Wed, Nov 22, 2023",Toronto Raptors,Indiana Pacers,132,131
+"Wed, Nov 22, 2023",Memphis Grizzlies,Houston Rockets,91,111
+"Wed, Nov 22, 2023",Philadelphia 76ers,Minnesota Timberwolves,99,112
+"Wed, Nov 22, 2023",Sacramento Kings,New Orleans Pelicans,112,117
+"Wed, Nov 22, 2023",Chicago Bulls,Oklahoma City Thunder,102,116
+"Wed, Nov 22, 2023",Los Angeles Clippers,San Antonio Spurs,109,102
+"Wed, Nov 22, 2023",Golden State Warriors,Phoenix Suns,115,123
+"Wed, Nov 22, 2023",Utah Jazz,Portland Trail Blazers,105,121
+"Wed, Nov 22, 2023",Dallas Mavericks,Los Angeles Lakers,104,101
+"Fri, Nov 24, 2023",Boston Celtics,Orlando Magic,96,113
+"Fri, Nov 24, 2023",Phoenix Suns,Memphis Grizzlies,110,89
+"Fri, Nov 24, 2023",Miami Heat,New York Knicks,98,100
+"Fri, Nov 24, 2023",Chicago Bulls,Toronto Raptors,108,121
+"Fri, Nov 24, 2023",Denver Nuggets,Houston Rockets,86,105
+"Fri, Nov 24, 2023",Detroit Pistons,Indiana Pacers,113,136
+"Fri, Nov 24, 2023",Washington Wizards,Milwaukee Bucks,128,131
+"Fri, Nov 24, 2023",Sacramento Kings,Minnesota Timberwolves,124,111
+"Fri, Nov 24, 2023",San Antonio Spurs,Golden State Warriors,112,118
+"Fri, Nov 24, 2023",New Orleans Pelicans,Los Angeles Clippers,116,106
+"Sat, Nov 25, 2023",Philadelphia 76ers,Oklahoma City Thunder,127,123
+"Sat, Nov 25, 2023",Miami Heat,Brooklyn Nets,97,112
+"Sat, Nov 25, 2023",Atlanta Hawks,Washington Wizards,136,108
+"Sat, Nov 25, 2023",Los Angeles Lakers,Cleveland Cavaliers,121,115
+"Sat, Nov 25, 2023",New Orleans Pelicans,Utah Jazz,100,105
+"Sat, Nov 25, 2023",Dallas Mavericks,Los Angeles Clippers,88,107
+"Sun, Nov 26, 2023",Portland Trail Blazers,Milwaukee Bucks,102,108
+"Sun, Nov 26, 2023",Atlanta Hawks,Boston Celtics,103,113
+"Sun, Nov 26, 2023",Minnesota Timberwolves,Memphis Grizzlies,119,97
+"Sun, Nov 26, 2023",Phoenix Suns,New York Knicks,116,113
+"Sun, Nov 26, 2023",Charlotte Hornets,Orlando Magic,117,130
+"Sun, Nov 26, 2023",Chicago Bulls,Brooklyn Nets,109,118
+"Sun, Nov 26, 2023",Toronto Raptors,Cleveland Cavaliers,102,105
+"Sun, Nov 26, 2023",San Antonio Spurs,Denver Nuggets,120,132
+"Mon, Nov 27, 2023",Washington Wizards,Detroit Pistons,126,107
+"Mon, Nov 27, 2023",Portland Trail Blazers,Indiana Pacers,114,110
+"Mon, Nov 27, 2023",Los Angeles Lakers,Philadelphia 76ers,94,138
+"Mon, Nov 27, 2023",New Orleans Pelicans,Utah Jazz,112,114
+"Mon, Nov 27, 2023",Denver Nuggets,Los Angeles Clippers,113,104
+"Tue, Nov 28, 2023",Chicago Bulls,Boston Celtics,97,124
+"Tue, Nov 28, 2023",Toronto Raptors,Brooklyn Nets,103,115
+"Tue, Nov 28, 2023",Atlanta Hawks,Cleveland Cavaliers,105,128
+"Tue, Nov 28, 2023",Milwaukee Bucks,Miami Heat,131,124
+"Tue, Nov 28, 2023",Charlotte Hornets,New York Knicks,91,115
+"Tue, Nov 28, 2023",Oklahoma City Thunder,Minnesota Timberwolves,103,106
+"Tue, Nov 28, 2023",Houston Rockets,Dallas Mavericks,115,121
+"Tue, Nov 28, 2023",Golden State Warriors,Sacramento Kings,123,124
+"Wed, Nov 29, 2023",Los Angeles Lakers,Detroit Pistons,133,107
+"Wed, Nov 29, 2023",Washington Wizards,Orlando Magic,120,139
+"Wed, Nov 29, 2023",Phoenix Suns,Toronto Raptors,105,112
+"Wed, Nov 29, 2023",Utah Jazz,Memphis Grizzlies,91,105
+"Wed, Nov 29, 2023",Philadelphia 76ers,New Orleans Pelicans,114,124
+"Wed, Nov 29, 2023",Houston Rockets,Denver Nuggets,124,134
+"Wed, Nov 29, 2023",Los Angeles Clippers,Sacramento Kings,131,117
+"Thu, Nov 30, 2023",Portland Trail Blazers,Cleveland Cavaliers,103,95
+"Thu, Nov 30, 2023",Charlotte Hornets,Brooklyn Nets,129,128
+"Thu, Nov 30, 2023",Indiana Pacers,Miami Heat,132,142
+"Thu, Nov 30, 2023",Detroit Pistons,New York Knicks,112,118
+"Thu, Nov 30, 2023",Milwaukee Bucks,Chicago Bulls,113,120
+"Thu, Nov 30, 2023",Utah Jazz,Minnesota Timberwolves,90,101
+"Thu, Nov 30, 2023",Los Angeles Lakers,Oklahoma City Thunder,110,133
+"Thu, Nov 30, 2023",Atlanta Hawks,San Antonio Spurs,137,135
+"Thu, Nov 30, 2023",Los Angeles Clippers,Golden State Warriors,114,120
+"Fri, Dec 1, 2023",Washington Wizards,Orlando Magic,125,130
+"Fri, Dec 1, 2023",Philadelphia 76ers,Boston Celtics,119,125
+"Fri, Dec 1, 2023",Memphis Grizzlies,Dallas Mavericks,108,94
+"Fri, Dec 1, 2023",New York Knicks,Toronto Raptors,119,106
+"Fri, Dec 1, 2023",San Antonio Spurs,New Orleans Pelicans,106,121
+"Fri, Dec 1, 2023",Denver Nuggets,Phoenix Suns,119,111
+"Sat, Dec 2, 2023",Golden State Warriors,Los Angeles Clippers,112,113
+"Sat, Dec 2, 2023",Minnesota Timberwolves,Charlotte Hornets,123,117
+"Sat, Dec 2, 2023",Orlando Magic,Brooklyn Nets,101,129
+"Sat, Dec 2, 2023",Cleveland Cavaliers,Detroit Pistons,110,101
+"Sat, Dec 2, 2023",New Orleans Pelicans,Chicago Bulls,118,124
+"Sat, Dec 2, 2023",Indiana Pacers,Miami Heat,144,129
+"Sat, Dec 2, 2023",Atlanta Hawks,Milwaukee Bucks,121,132
+"Sat, Dec 2, 2023",Oklahoma City Thunder,Dallas Mavericks,126,120
+"Sat, Dec 2, 2023",Memphis Grizzlies,Phoenix Suns,109,116
+"Sat, Dec 2, 2023",Portland Trail Blazers,Utah Jazz,113,118
+"Sat, Dec 2, 2023",Denver Nuggets,Sacramento Kings,117,123
+"Sat, Dec 2, 2023",Houston Rockets,Los Angeles Lakers,97,107
+"Mon, Dec 4, 2023",Boston Celtics,Indiana Pacers,112,122
+"Mon, Dec 4, 2023",New Orleans Pelicans,Sacramento Kings,127,117
+"Tue, Dec 5, 2023",New York Knicks,Milwaukee Bucks,122,146
+"Tue, Dec 5, 2023",Phoenix Suns,Los Angeles Lakers,103,106
+"Wed, Dec 6, 2023",Orlando Magic,Cleveland Cavaliers,111,121
+"Wed, Dec 6, 2023",Memphis Grizzlies,Detroit Pistons,116,102
+"Wed, Dec 6, 2023",Philadelphia 76ers,Washington Wizards,131,126
+"Wed, Dec 6, 2023",Brooklyn Nets,Atlanta Hawks,114,113
+"Wed, Dec 6, 2023",San Antonio Spurs,Minnesota Timberwolves,94,102
+"Wed, Dec 6, 2023",Miami Heat,Toronto Raptors,112,103
+"Wed, Dec 6, 2023",Charlotte Hornets,Chicago Bulls,100,111
+"Wed, Dec 6, 2023",Oklahoma City Thunder,Houston Rockets,101,110
+"Wed, Dec 6, 2023",Utah Jazz,Dallas Mavericks,97,147
+"Wed, Dec 6, 2023",Portland Trail Blazers,Golden State Warriors,106,110
+"Wed, Dec 6, 2023",Denver Nuggets,Los Angeles Clippers,102,111
+"Thu, Dec 7, 2023",Indiana Pacers,Milwaukee Bucks,128,119
+"Thu, Dec 7, 2023",New Orleans Pelicans,Los Angeles Lakers,89,133
+"Fri, Dec 8, 2023",Toronto Raptors,Charlotte Hornets,116,119
+"Fri, Dec 8, 2023",Detroit Pistons,Orlando Magic,91,123
+"Fri, Dec 8, 2023",Atlanta Hawks,Philadelphia 76ers,114,125
+"Fri, Dec 8, 2023",New York Knicks,Boston Celtics,123,133
+"Fri, Dec 8, 2023",Washington Wizards,Brooklyn Nets,97,124
+"Fri, Dec 8, 2023",Minnesota Timberwolves,Memphis Grizzlies,127,103
+"Fri, Dec 8, 2023",Cleveland Cavaliers,Miami Heat,111,99
+"Fri, Dec 8, 2023",Golden State Warriors,Oklahoma City Thunder,136,138
+"Fri, Dec 8, 2023",Chicago Bulls,San Antonio Spurs,121,112
+"Fri, Dec 8, 2023",Houston Rockets,Denver Nuggets,114,106
+"Fri, Dec 8, 2023",Sacramento Kings,Phoenix Suns,114,106
+"Fri, Dec 8, 2023",Dallas Mavericks,Portland Trail Blazers,125,112
+"Fri, Dec 8, 2023",Los Angeles Clippers,Utah Jazz,117,103
+"Sat, Dec 9, 2023",Indiana Pacers,Los Angeles Lakers,109,123
+"Mon, Dec 11, 2023",Miami Heat,Charlotte Hornets,116,114
+"Mon, Dec 11, 2023",Indiana Pacers,Detroit Pistons,131,123
+"Mon, Dec 11, 2023",Cleveland Cavaliers,Orlando Magic,94,104
+"Mon, Dec 11, 2023",Washington Wizards,Philadelphia 76ers,101,146
+"Mon, Dec 11, 2023",Denver Nuggets,Atlanta Hawks,129,122
+"Mon, Dec 11, 2023",Toronto Raptors,New York Knicks,130,136
+"Mon, Dec 11, 2023",San Antonio Spurs,Houston Rockets,82,93
+"Mon, Dec 11, 2023",Dallas Mavericks,Memphis Grizzlies,120,113
+"Mon, Dec 11, 2023",Chicago Bulls,Milwaukee Bucks,129,133
+"Mon, Dec 11, 2023",Minnesota Timberwolves,New Orleans Pelicans,107,121
+"Mon, Dec 11, 2023",Utah Jazz,Oklahoma City Thunder,120,134
+"Mon, Dec 11, 2023",Brooklyn Nets,Sacramento Kings,118,131
+"Mon, Dec 11, 2023",Portland Trail Blazers,Los Angeles Clippers,127,132
+"Tue, Dec 12, 2023",Cleveland Cavaliers,Boston Celtics,113,120
+"Tue, Dec 12, 2023",Los Angeles Lakers,Dallas Mavericks,125,127
+"Tue, Dec 12, 2023",Denver Nuggets,Chicago Bulls,114,106
+"Tue, Dec 12, 2023",Golden State Warriors,Phoenix Suns,116,119
+"Tue, Dec 12, 2023",Sacramento Kings,Los Angeles Clippers,99,119
+"Wed, Dec 13, 2023",Philadelphia 76ers,Detroit Pistons,129,111
+"Wed, Dec 13, 2023",New Orleans Pelicans,Washington Wizards,142,122
+"Wed, Dec 13, 2023",Charlotte Hornets,Miami Heat,104,115
+"Wed, Dec 13, 2023",Atlanta Hawks,Toronto Raptors,128,135
+"Wed, Dec 13, 2023",Memphis Grizzlies,Houston Rockets,104,117
+"Wed, Dec 13, 2023",Indiana Pacers,Milwaukee Bucks,126,140
+"Wed, Dec 13, 2023",Los Angeles Lakers,San Antonio Spurs,122,119
+"Wed, Dec 13, 2023",Brooklyn Nets,Phoenix Suns,116,112
+"Wed, Dec 13, 2023",New York Knicks,Utah Jazz,113,117
+"Thu, Dec 14, 2023",Cleveland Cavaliers,Boston Celtics,107,116
+"Thu, Dec 14, 2023",Chicago Bulls,Miami Heat,124,116
+"Thu, Dec 14, 2023",Minnesota Timberwolves,Dallas Mavericks,119,101
+"Thu, Dec 14, 2023",Brooklyn Nets,Denver Nuggets,101,124
+"Thu, Dec 14, 2023",Utah Jazz,Portland Trail Blazers,122,114
+"Thu, Dec 14, 2023",Oklahoma City Thunder,Sacramento Kings,123,128
+"Thu, Dec 14, 2023",Golden State Warriors,Los Angeles Clippers,113,121
+"Fri, Dec 15, 2023",New Orleans Pelicans,Charlotte Hornets,112,107
+"Fri, Dec 15, 2023",Detroit Pistons,Philadelphia 76ers,92,124
+"Fri, Dec 15, 2023",Indiana Pacers,Washington Wizards,123,137
+"Fri, Dec 15, 2023",Orlando Magic,Boston Celtics,111,128
+"Fri, Dec 15, 2023",Los Angeles Lakers,San Antonio Spurs,115,129
+"Fri, Dec 15, 2023",Atlanta Hawks,Toronto Raptors,125,104
+"Fri, Dec 15, 2023",Houston Rockets,Memphis Grizzlies,103,96
+"Fri, Dec 15, 2023",New York Knicks,Phoenix Suns,139,122
+"Sat, Dec 16, 2023",Detroit Pistons,Milwaukee Bucks,114,146
+"Sat, Dec 16, 2023",Philadelphia 76ers,Charlotte Hornets,135,82
+"Sat, Dec 16, 2023",Atlanta Hawks,Cleveland Cavaliers,119,127
+"Sat, Dec 16, 2023",Chicago Bulls,Miami Heat,116,118
+"Sat, Dec 16, 2023",Indiana Pacers,Minnesota Timberwolves,109,127
+"Sat, Dec 16, 2023",Brooklyn Nets,Golden State Warriors,120,124
+"Sat, Dec 16, 2023",Oklahoma City Thunder,Denver Nuggets,118,117
+"Sat, Dec 16, 2023",Dallas Mavericks,Portland Trail Blazers,131,120
+"Sat, Dec 16, 2023",Utah Jazz,Sacramento Kings,104,125
+"Sat, Dec 16, 2023",New York Knicks,Los Angeles Clippers,122,144
+"Sun, Dec 17, 2023",Orlando Magic,Boston Celtics,97,114
+"Sun, Dec 17, 2023",New Orleans Pelicans,San Antonio Spurs,146,110
+"Sun, Dec 17, 2023",Houston Rockets,Milwaukee Bucks,119,128
+"Sun, Dec 17, 2023",Washington Wizards,Phoenix Suns,108,112
+"Sun, Dec 17, 2023",Golden State Warriors,Portland Trail Blazers,118,114
+"Mon, Dec 18, 2023",Houston Rockets,Cleveland Cavaliers,130,135
+"Mon, Dec 18, 2023",Los Angeles Clippers,Indiana Pacers,151,127
+"Mon, Dec 18, 2023",Chicago Bulls,Philadelphia 76ers,108,104
+"Mon, Dec 18, 2023",Detroit Pistons,Atlanta Hawks,124,130
+"Mon, Dec 18, 2023",Minnesota Timberwolves,Miami Heat,112,108
+"Mon, Dec 18, 2023",Charlotte Hornets,Toronto Raptors,99,114
+"Mon, Dec 18, 2023",Memphis Grizzlies,Oklahoma City Thunder,97,116
+"Mon, Dec 18, 2023",Dallas Mavericks,Denver Nuggets,104,130
+"Mon, Dec 18, 2023",Brooklyn Nets,Utah Jazz,108,125
+"Mon, Dec 18, 2023",Washington Wizards,Sacramento Kings,131,143
+"Mon, Dec 18, 2023",New York Knicks,Los Angeles Lakers,114,109
+"Tue, Dec 19, 2023",Memphis Grizzlies,New Orleans Pelicans,115,113
+"Tue, Dec 19, 2023",San Antonio Spurs,Milwaukee Bucks,119,132
+"Tue, Dec 19, 2023",Boston Celtics,Golden State Warriors,126,132
+"Tue, Dec 19, 2023",Phoenix Suns,Portland Trail Blazers,104,109
+"Wed, Dec 20, 2023",Utah Jazz,Cleveland Cavaliers,116,124
+"Wed, Dec 20, 2023",Charlotte Hornets,Indiana Pacers,113,144
+"Wed, Dec 20, 2023",Miami Heat,Orlando Magic,115,106
+"Wed, Dec 20, 2023",Minnesota Timberwolves,Philadelphia 76ers,113,127
+"Wed, Dec 20, 2023",New York Knicks,Brooklyn Nets,121,102
+"Wed, Dec 20, 2023",Denver Nuggets,Toronto Raptors,113,104
+"Wed, Dec 20, 2023",Los Angeles Lakers,Chicago Bulls,108,124
+"Wed, Dec 20, 2023",Atlanta Hawks,Houston Rockets,134,127
+"Wed, Dec 20, 2023",Los Angeles Clippers,Dallas Mavericks,120,111
+"Wed, Dec 20, 2023",Boston Celtics,Sacramento Kings,144,119
+"Thu, Dec 21, 2023",Utah Jazz,Detroit Pistons,119,111
+"Thu, Dec 21, 2023",New Orleans Pelicans,Cleveland Cavaliers,123,104
+"Thu, Dec 21, 2023",San Antonio Spurs,Chicago Bulls,95,114
+"Thu, Dec 21, 2023",Indiana Pacers,Memphis Grizzlies,103,116
+"Thu, Dec 21, 2023",Orlando Magic,Milwaukee Bucks,114,118
+"Thu, Dec 21, 2023",Los Angeles Clippers,Oklahoma City Thunder,115,134
+"Thu, Dec 21, 2023",Los Angeles Lakers,Minnesota Timberwolves,111,118
+"Thu, Dec 21, 2023",Washington Wizards,Portland Trail Blazers,118,117
+"Fri, Dec 22, 2023",Toronto Raptors,Philadelphia 76ers,111,121
+"Fri, Dec 22, 2023",Denver Nuggets,Brooklyn Nets,122,117
+"Fri, Dec 22, 2023",Dallas Mavericks,Houston Rockets,96,122
+"Fri, Dec 22, 2023",Atlanta Hawks,Miami Heat,113,122
+"Fri, Dec 22, 2023",Washington Wizards,Golden State Warriors,118,129
+"Fri, Dec 22, 2023",Phoenix Suns,Sacramento Kings,105,120
+"Sat, Dec 23, 2023",Milwaukee Bucks,New York Knicks,130,111
+"Sat, Dec 23, 2023",Boston Celtics,Los Angeles Clippers,145,108
+"Sat, Dec 23, 2023",Denver Nuggets,Charlotte Hornets,102,95
+"Sat, Dec 23, 2023",Orlando Magic,Indiana Pacers,117,110
+"Sat, Dec 23, 2023",Houston Rockets,New Orleans Pelicans,106,104
+"Sat, Dec 23, 2023",Memphis Grizzlies,Atlanta Hawks,125,119
+"Sat, Dec 23, 2023",Detroit Pistons,Brooklyn Nets,115,126
+"Sat, Dec 23, 2023",Utah Jazz,Toronto Raptors,126,119
+"Sat, Dec 23, 2023",Cleveland Cavaliers,Chicago Bulls,109,95
+"Sat, Dec 23, 2023",Los Angeles Lakers,Oklahoma City Thunder,129,120
+"Sat, Dec 23, 2023",San Antonio Spurs,Dallas Mavericks,119,144
+"Sat, Dec 23, 2023",Portland Trail Blazers,Golden State Warriors,106,126
+"Sat, Dec 23, 2023",Minnesota Timberwolves,Sacramento Kings,110,98
+"Mon, Dec 25, 2023",Milwaukee Bucks,New York Knicks,122,129
+"Mon, Dec 25, 2023",Golden State Warriors,Denver Nuggets,114,120
+"Mon, Dec 25, 2023",Boston Celtics,Los Angeles Lakers,126,115
+"Mon, Dec 25, 2023",Philadelphia 76ers,Miami Heat,113,119
+"Mon, Dec 25, 2023",Dallas Mavericks,Phoenix Suns,128,114
+"Tue, Dec 26, 2023",Brooklyn Nets,Detroit Pistons,118,112
+"Tue, Dec 26, 2023",Orlando Magic,Washington Wizards,127,119
+"Tue, Dec 26, 2023",Atlanta Hawks,Chicago Bulls,113,118
+"Tue, Dec 26, 2023",Indiana Pacers,Houston Rockets,123,117
+"Tue, Dec 26, 2023",Memphis Grizzlies,New Orleans Pelicans,116,115
+"Tue, Dec 26, 2023",Minnesota Timberwolves,Oklahoma City Thunder,106,129
+"Tue, Dec 26, 2023",Utah Jazz,San Antonio Spurs,130,118
+"Tue, Dec 26, 2023",Sacramento Kings,Portland Trail Blazers,113,130
+"Tue, Dec 26, 2023",Charlotte Hornets,Los Angeles Clippers,104,113
+"Wed, Dec 27, 2023",Philadelphia 76ers,Orlando Magic,112,92
+"Wed, Dec 27, 2023",Toronto Raptors,Washington Wizards,132,102
+"Wed, Dec 27, 2023",Milwaukee Bucks,Brooklyn Nets,144,122
+"Wed, Dec 27, 2023",Phoenix Suns,Houston Rockets,129,113
+"Wed, Dec 27, 2023",New York Knicks,Oklahoma City Thunder,120,129
+"Wed, Dec 27, 2023",Cleveland Cavaliers,Dallas Mavericks,113,110
+"Thu, Dec 28, 2023",Detroit Pistons,Boston Celtics,122,128
+"Thu, Dec 28, 2023",Indiana Pacers,Chicago Bulls,120,104
+"Thu, Dec 28, 2023",Dallas Mavericks,Minnesota Timberwolves,110,118
+"Thu, Dec 28, 2023",Utah Jazz,New Orleans Pelicans,105,112
+"Thu, Dec 28, 2023",Memphis Grizzlies,Denver Nuggets,105,142
+"Thu, Dec 28, 2023",Miami Heat,Golden State Warriors,114,102
+"Thu, Dec 28, 2023",San Antonio Spurs,Portland Trail Blazers,118,105
+"Thu, Dec 28, 2023",Charlotte Hornets,Los Angeles Lakers,112,133
+"Fri, Dec 29, 2023",New York Knicks,Orlando Magic,108,117
+"Fri, Dec 29, 2023",Brooklyn Nets,Washington Wizards,104,110
+"Fri, Dec 29, 2023",Sacramento Kings,Atlanta Hawks,117,110
+"Fri, Dec 29, 2023",Toronto Raptors,Boston Celtics,118,120
+"Fri, Dec 29, 2023",Milwaukee Bucks,Cleveland Cavaliers,119,111
+"Fri, Dec 29, 2023",Philadelphia 76ers,Houston Rockets,131,127
+"Fri, Dec 29, 2023",Oklahoma City Thunder,Denver Nuggets,119,93
+"Fri, Dec 29, 2023",Charlotte Hornets,Phoenix Suns,119,133
+"Fri, Dec 29, 2023",San Antonio Spurs,Portland Trail Blazers,128,134
+"Fri, Dec 29, 2023",Memphis Grizzlies,Los Angeles Clippers,106,117
+"Sat, Dec 30, 2023",Miami Heat,Utah Jazz,109,117
+"Sat, Dec 30, 2023",Toronto Raptors,Detroit Pistons,127,129
+"Sat, Dec 30, 2023",New York Knicks,Indiana Pacers,126,140
+"Sat, Dec 30, 2023",Philadelphia 76ers,Chicago Bulls,92,105
+"Sat, Dec 30, 2023",Los Angeles Lakers,Minnesota Timberwolves,106,108
+"Sat, Dec 30, 2023",Dallas Mavericks,Golden State Warriors,132,122
+"Sun, Dec 31, 2023",Atlanta Hawks,Washington Wizards,130,126
+"Sun, Dec 31, 2023",Los Angeles Lakers,New Orleans Pelicans,109,129
+"Sun, Dec 31, 2023",Brooklyn Nets,Oklahoma City Thunder,108,124
+"Sun, Dec 31, 2023",Boston Celtics,San Antonio Spurs,134,101
+"Sun, Dec 31, 2023",Sacramento Kings,Memphis Grizzlies,123,92
+"Sun, Dec 31, 2023",Orlando Magic,Phoenix Suns,107,112
+"Mon, Jan 1, 2024",Minnesota Timberwolves,New York Knicks,106,112
+"Mon, Jan 1, 2024",Cleveland Cavaliers,Toronto Raptors,121,124
+"Mon, Jan 1, 2024",Detroit Pistons,Houston Rockets,113,136
+"Mon, Jan 1, 2024",Indiana Pacers,Milwaukee Bucks,122,113
+"Mon, Jan 1, 2024",Charlotte Hornets,Denver Nuggets,93,111
+"Mon, Jan 1, 2024",Portland Trail Blazers,Phoenix Suns,88,109
+"Mon, Jan 1, 2024",Dallas Mavericks,Utah Jazz,90,127
+"Mon, Jan 1, 2024",Miami Heat,Los Angeles Clippers,104,121
+"Tue, Jan 2, 2024",Chicago Bulls,Philadelphia 76ers,97,110
+"Tue, Jan 2, 2024",San Antonio Spurs,Memphis Grizzlies,98,106
+"Tue, Jan 2, 2024",Brooklyn Nets,New Orleans Pelicans,85,112
+"Tue, Jan 2, 2024",Boston Celtics,Oklahoma City Thunder,123,127
+"Tue, Jan 2, 2024",Orlando Magic,Golden State Warriors,115,121
+"Tue, Jan 2, 2024",Charlotte Hornets,Sacramento Kings,111,104
+"Wed, Jan 3, 2024",Washington Wizards,Cleveland Cavaliers,101,140
+"Wed, Jan 3, 2024",Milwaukee Bucks,Indiana Pacers,130,142
+"Wed, Jan 3, 2024",Oklahoma City Thunder,Atlanta Hawks,138,141
+"Wed, Jan 3, 2024",Brooklyn Nets,Houston Rockets,101,112
+"Wed, Jan 3, 2024",Toronto Raptors,Memphis Grizzlies,116,111
+"Wed, Jan 3, 2024",New Orleans Pelicans,Minnesota Timberwolves,117,106
+"Wed, Jan 3, 2024",Portland Trail Blazers,Dallas Mavericks,97,126
+"Wed, Jan 3, 2024",Chicago Bulls,New York Knicks,100,116
+"Wed, Jan 3, 2024",Los Angeles Clippers,Phoenix Suns,131,122
+"Wed, Jan 3, 2024",Detroit Pistons,Utah Jazz,148,154
+"Wed, Jan 3, 2024",Miami Heat,Los Angeles Lakers,110,96
+"Wed, Jan 3, 2024",Orlando Magic,Sacramento Kings,135,138
+"Thu, Jan 4, 2024",Milwaukee Bucks,San Antonio Spurs,125,121
+"Thu, Jan 4, 2024",Denver Nuggets,Golden State Warriors,130,127
+"Fri, Jan 5, 2024",Utah Jazz,Boston Celtics,97,126
+"Fri, Jan 5, 2024",Atlanta Hawks,Indiana Pacers,116,150
+"Fri, Jan 5, 2024",Oklahoma City Thunder,Brooklyn Nets,115,124
+"Fri, Jan 5, 2024",Washington Wizards,Cleveland Cavaliers,90,114
+"Fri, Jan 5, 2024",New York Knicks,Philadelphia 76ers,128,92
+"Fri, Jan 5, 2024",Charlotte Hornets,Chicago Bulls,91,104
+"Fri, Jan 5, 2024",Minnesota Timberwolves,Houston Rockets,122,95
+"Fri, Jan 5, 2024",Los Angeles Clippers,New Orleans Pelicans,111,95
+"Fri, Jan 5, 2024",Portland Trail Blazers,Dallas Mavericks,103,139
+"Fri, Jan 5, 2024",Orlando Magic,Denver Nuggets,122,120
+"Fri, Jan 5, 2024",Miami Heat,Phoenix Suns,97,113
+"Fri, Jan 5, 2024",Detroit Pistons,Golden State Warriors,109,113
+"Fri, Jan 5, 2024",Memphis Grizzlies,Los Angeles Lakers,127,113
+"Fri, Jan 5, 2024",Toronto Raptors,Sacramento Kings,130,135
+"Sat, Jan 6, 2024",Boston Celtics,Indiana Pacers,118,101
+"Sat, Jan 6, 2024",New York Knicks,Washington Wizards,121,105
+"Sat, Jan 6, 2024",Utah Jazz,Philadelphia 76ers,120,109
+"Sat, Jan 6, 2024",Milwaukee Bucks,Houston Rockets,108,112
+"Sun, Jan 7, 2024",San Antonio Spurs,Cleveland Cavaliers,115,117
+"Sun, Jan 7, 2024",Portland Trail Blazers,Brooklyn Nets,134,127
+"Sun, Jan 7, 2024",Atlanta Hawks,Orlando Magic,110,117
+"Sun, Jan 7, 2024",New Orleans Pelicans,Sacramento Kings,133,100
+"Sun, Jan 7, 2024",Minnesota Timberwolves,Dallas Mavericks,108,115
+"Sun, Jan 7, 2024",Detroit Pistons,Denver Nuggets,114,131
+"Sun, Jan 7, 2024",Memphis Grizzlies,Phoenix Suns,121,115
+"Sun, Jan 7, 2024",Toronto Raptors,Golden State Warriors,133,118
+"Sun, Jan 7, 2024",Los Angeles Clippers,Los Angeles Lakers,103,106
+"Mon, Jan 8, 2024",Chicago Bulls,Charlotte Hornets,119,112
+"Mon, Jan 8, 2024",Boston Celtics,Indiana Pacers,131,133
+"Mon, Jan 8, 2024",Oklahoma City Thunder,Washington Wizards,136,128
+"Mon, Jan 8, 2024",Houston Rockets,Miami Heat,113,120
+"Mon, Jan 8, 2024",Utah Jazz,Milwaukee Bucks,132,116
+"Mon, Jan 8, 2024",Phoenix Suns,Los Angeles Clippers,111,138
+"Tue, Jan 9, 2024",Sacramento Kings,Detroit Pistons,131,110
+"Tue, Jan 9, 2024",Minnesota Timberwolves,Orlando Magic,113,92
+"Tue, Jan 9, 2024",Portland Trail Blazers,New York Knicks,84,112
+"Tue, Jan 9, 2024",Memphis Grizzlies,Dallas Mavericks,120,103
+"Tue, Jan 9, 2024",Toronto Raptors,Los Angeles Lakers,131,132
+"Wed, Jan 10, 2024",Minnesota Timberwolves,Boston Celtics,120,127
+"Wed, Jan 10, 2024",Sacramento Kings,Charlotte Hornets,123,98
+"Wed, Jan 10, 2024",San Antonio Spurs,Detroit Pistons,130,108
+"Wed, Jan 10, 2024",Washington Wizards,Indiana Pacers,104,112
+"Wed, Jan 10, 2024",Philadelphia 76ers,Atlanta Hawks,132,139
+"Wed, Jan 10, 2024",Oklahoma City Thunder,Miami Heat,128,120
+"Wed, Jan 10, 2024",Houston Rockets,Chicago Bulls,119,124
+"Wed, Jan 10, 2024",New Orleans Pelicans,Golden State Warriors,141,105
+"Wed, Jan 10, 2024",Denver Nuggets,Utah Jazz,111,124
+"Wed, Jan 10, 2024",Toronto Raptors,Los Angeles Clippers,120,126
+"Thu, Jan 11, 2024",Brooklyn Nets,Cleveland Cavaliers,102,111
+"Thu, Jan 11, 2024",Boston Celtics,Milwaukee Bucks,102,135
+"Thu, Jan 11, 2024",Portland Trail Blazers,Oklahoma City Thunder,77,139
+"Thu, Jan 11, 2024",New York Knicks,Dallas Mavericks,124,128
+"Thu, Jan 11, 2024",Phoenix Suns,Los Angeles Lakers,127,109
+"Fri, Jan 12, 2024",Indiana Pacers,Atlanta Hawks,126,108
+"Fri, Jan 12, 2024",Houston Rockets,Detroit Pistons,112,110
+"Fri, Jan 12, 2024",Sacramento Kings,Philadelphia 76ers,93,112
+"Fri, Jan 12, 2024",Golden State Warriors,Chicago Bulls,140,131
+"Fri, Jan 12, 2024",Los Angeles Clippers,Memphis Grizzlies,128,119
+"Fri, Jan 12, 2024",Orlando Magic,Miami Heat,96,99
+"Fri, Jan 12, 2024",Portland Trail Blazers,Minnesota Timberwolves,93,116
+"Fri, Jan 12, 2024",Charlotte Hornets,San Antonio Spurs,99,135
+"Fri, Jan 12, 2024",Toronto Raptors,Utah Jazz,113,145
+"Fri, Jan 12, 2024",New Orleans Pelicans,Denver Nuggets,113,125
+"Sat, Jan 13, 2024",Houston Rockets,Boston Celtics,113,145
+"Sat, Jan 13, 2024",Washington Wizards,Atlanta Hawks,127,99
+"Sat, Jan 13, 2024",New York Knicks,Memphis Grizzlies,106,94
+"Sat, Jan 13, 2024",Golden State Warriors,Milwaukee Bucks,118,129
+"Sat, Jan 13, 2024",Orlando Magic,Oklahoma City Thunder,100,112
+"Sat, Jan 13, 2024",New Orleans Pelicans,Dallas Mavericks,118,108
+"Sat, Jan 13, 2024",Chicago Bulls,San Antonio Spurs,122,116
+"Sat, Jan 13, 2024",Los Angeles Lakers,Utah Jazz,125,132
+"Sun, Jan 14, 2024",Indiana Pacers,Denver Nuggets,109,117
+"Sun, Jan 14, 2024",Charlotte Hornets,Miami Heat,87,104
+"Sun, Jan 14, 2024",Sacramento Kings,Milwaukee Bucks,142,143
+"Sun, Jan 14, 2024",Los Angeles Clippers,Minnesota Timberwolves,105,109
+"Sun, Jan 14, 2024",Phoenix Suns,Portland Trail Blazers,127,116
+"Mon, Jan 15, 2024",Houston Rockets,Philadelphia 76ers,115,124
+"Mon, Jan 15, 2024",New Orleans Pelicans,Dallas Mavericks,120,125
+"Mon, Jan 15, 2024",Orlando Magic,New York Knicks,98,94
+"Mon, Jan 15, 2024",Detroit Pistons,Washington Wizards,129,117
+"Mon, Jan 15, 2024",San Antonio Spurs,Atlanta Hawks,99,109
+"Mon, Jan 15, 2024",Golden State Warriors,Memphis Grizzlies,107,116
+"Mon, Jan 15, 2024",Chicago Bulls,Cleveland Cavaliers,91,109
+"Mon, Jan 15, 2024",Miami Heat,Brooklyn Nets,96,95
+"Mon, Jan 15, 2024",Boston Celtics,Toronto Raptors,105,96
+"Mon, Jan 15, 2024",Indiana Pacers,Utah Jazz,105,132
+"Mon, Jan 15, 2024",Oklahoma City Thunder,Los Angeles Lakers,105,112
+"Tue, Jan 16, 2024",Denver Nuggets,Philadelphia 76ers,121,126
+"Tue, Jan 16, 2024",Sacramento Kings,Phoenix Suns,117,119
+"Tue, Jan 16, 2024",Oklahoma City Thunder,Los Angeles Clippers,117,128
+"Wed, Jan 17, 2024",Minnesota Timberwolves,Detroit Pistons,124,117
+"Wed, Jan 17, 2024",Orlando Magic,Atlanta Hawks,104,106
+"Wed, Jan 17, 2024",San Antonio Spurs,Boston Celtics,98,117
+"Wed, Jan 17, 2024",Milwaukee Bucks,Cleveland Cavaliers,95,135
+"Wed, Jan 17, 2024",Houston Rockets,New York Knicks,94,109
+"Wed, Jan 17, 2024",Miami Heat,Toronto Raptors,97,121
+"Wed, Jan 17, 2024",Charlotte Hornets,New Orleans Pelicans,112,132
+"Wed, Jan 17, 2024",Dallas Mavericks,Los Angeles Lakers,110,127
+"Wed, Jan 17, 2024",Brooklyn Nets,Portland Trail Blazers,103,105
+"Thu, Jan 18, 2024",Washington Wizards,New York Knicks,109,113
+"Thu, Jan 18, 2024",Chicago Bulls,Toronto Raptors,116,110
+"Thu, Jan 18, 2024",Oklahoma City Thunder,Utah Jazz,134,129
+"Thu, Jan 18, 2024",Memphis Grizzlies,Minnesota Timberwolves,103,118
+"Thu, Jan 18, 2024",Indiana Pacers,Sacramento Kings,126,121
+"Fri, Jan 19, 2024",San Antonio Spurs,Charlotte Hornets,120,124
+"Fri, Jan 19, 2024",Philadelphia 76ers,Orlando Magic,124,109
+"Fri, Jan 19, 2024",Denver Nuggets,Boston Celtics,102,100
+"Fri, Jan 19, 2024",Atlanta Hawks,Miami Heat,109,108
+"Fri, Jan 19, 2024",Phoenix Suns,New Orleans Pelicans,123,109
+"Fri, Jan 19, 2024",Indiana Pacers,Portland Trail Blazers,115,118
+"Fri, Jan 19, 2024",Brooklyn Nets,Los Angeles Lakers,130,112
+"Sat, Jan 20, 2024",Milwaukee Bucks,Detroit Pistons,141,135
+"Sat, Jan 20, 2024",Philadelphia 76ers,Charlotte Hornets,97,89
+"Sat, Jan 20, 2024",San Antonio Spurs,Washington Wizards,131,127
+"Sat, Jan 20, 2024",Cleveland Cavaliers,Atlanta Hawks,116,95
+"Sat, Jan 20, 2024",Toronto Raptors,New York Knicks,100,126
+"Sat, Jan 20, 2024",Memphis Grizzlies,Chicago Bulls,96,125
+"Sat, Jan 20, 2024",Utah Jazz,Houston Rockets,126,127
+"Sat, Jan 20, 2024",Oklahoma City Thunder,Minnesota Timberwolves,102,97
+"Sun, Jan 21, 2024",Brooklyn Nets,Los Angeles Clippers,114,125
+"Sun, Jan 21, 2024",Miami Heat,Orlando Magic,87,105
+"Sun, Jan 21, 2024",Denver Nuggets,Washington Wizards,113,104
+"Sun, Jan 21, 2024",Boston Celtics,Houston Rockets,116,107
+"Sun, Jan 21, 2024",Indiana Pacers,Phoenix Suns,110,117
+"Sun, Jan 21, 2024",Portland Trail Blazers,Los Angeles Lakers,110,134
+"Mon, Jan 22, 2024",Milwaukee Bucks,Detroit Pistons,122,113
+"Mon, Jan 22, 2024",Cleveland Cavaliers,Orlando Magic,126,99
+"Mon, Jan 22, 2024",San Antonio Spurs,Philadelphia 76ers,123,133
+"Mon, Jan 22, 2024",Memphis Grizzlies,Toronto Raptors,108,100
+"Mon, Jan 22, 2024",Charlotte Hornets,Minnesota Timberwolves,128,125
+"Mon, Jan 22, 2024",Boston Celtics,Dallas Mavericks,119,110
+"Mon, Jan 22, 2024",Chicago Bulls,Phoenix Suns,113,115
+"Mon, Jan 22, 2024",Atlanta Hawks,Sacramento Kings,107,122
+"Tue, Jan 23, 2024",Denver Nuggets,Indiana Pacers,114,109
+"Tue, Jan 23, 2024",New York Knicks,Brooklyn Nets,108,103
+"Tue, Jan 23, 2024",Utah Jazz,New Orleans Pelicans,124,153
+"Tue, Jan 23, 2024",Portland Trail Blazers,Oklahoma City Thunder,109,111
+"Tue, Jan 23, 2024",Los Angeles Lakers,Los Angeles Clippers,116,127
+"Wed, Jan 24, 2024",Charlotte Hornets,Detroit Pistons,106,113
+"Wed, Jan 24, 2024",Minnesota Timberwolves,Washington Wizards,118,107
+"Wed, Jan 24, 2024",Memphis Grizzlies,Miami Heat,105,96
+"Wed, Jan 24, 2024",Portland Trail Blazers,Houston Rockets,137,131
+"Wed, Jan 24, 2024",Cleveland Cavaliers,Milwaukee Bucks,116,126
+"Wed, Jan 24, 2024",Phoenix Suns,Dallas Mavericks,132,109
+"Wed, Jan 24, 2024",Oklahoma City Thunder,San Antonio Spurs,140,114
+"Wed, Jan 24, 2024",Atlanta Hawks,Golden State Warriors,112,134
+"Thu, Jan 25, 2024",Philadelphia 76ers,Indiana Pacers,122,134
+"Thu, Jan 25, 2024",Utah Jazz,Washington Wizards,123,108
+"Thu, Jan 25, 2024",Minnesota Timberwolves,Brooklyn Nets,96,94
+"Thu, Jan 25, 2024",Boston Celtics,Miami Heat,143,110
+"Thu, Jan 25, 2024",Denver Nuggets,New York Knicks,84,122
+"Thu, Jan 25, 2024",Sacramento Kings,Golden State Warriors,134,133
+"Thu, Jan 25, 2024",Chicago Bulls,Los Angeles Lakers,132,141
+"Fri, Jan 26, 2024",Dallas Mavericks,Atlanta Hawks,148,143
+"Fri, Jan 26, 2024",Houston Rockets,Charlotte Hornets,138,104
+"Fri, Jan 26, 2024",Phoenix Suns,Indiana Pacers,131,133
+"Fri, Jan 26, 2024",Los Angeles Clippers,Toronto Raptors,127,107
+"Fri, Jan 26, 2024",Orlando Magic,Memphis Grizzlies,106,107
+"Fri, Jan 26, 2024",Cleveland Cavaliers,Milwaukee Bucks,112,100
+"Fri, Jan 26, 2024",Oklahoma City Thunder,New Orleans Pelicans,107,83
+"Fri, Jan 26, 2024",Portland Trail Blazers,San Antonio Spurs,100,116
+"Sat, Jan 27, 2024",Washington Wizards,Detroit Pistons,118,104
+"Sat, Jan 27, 2024",Miami Heat,New York Knicks,109,125
+"Sat, Jan 27, 2024",Philadelphia 76ers,Denver Nuggets,105,111
+"Sat, Jan 27, 2024",Houston Rockets,Brooklyn Nets,104,106
+"Sat, Jan 27, 2024",Los Angeles Clippers,Boston Celtics,115,96
+"Sat, Jan 27, 2024",Utah Jazz,Charlotte Hornets,134,122
+"Sat, Jan 27, 2024",New Orleans Pelicans,Milwaukee Bucks,117,141
+"Sat, Jan 27, 2024",Los Angeles Lakers,Golden State Warriors,145,144
+"Sat, Jan 27, 2024",Minnesota Timberwolves,San Antonio Spurs,112,113
+"Sat, Jan 27, 2024",Sacramento Kings,Dallas Mavericks,120,115
+"Sun, Jan 28, 2024",Oklahoma City Thunder,Detroit Pistons,104,120
+"Sun, Jan 28, 2024",Memphis Grizzlies,Indiana Pacers,110,116
+"Sun, Jan 28, 2024",Toronto Raptors,Atlanta Hawks,125,126
+"Sun, Jan 28, 2024",Phoenix Suns,Orlando Magic,98,113
+"Sun, Jan 28, 2024",Chicago Bulls,Portland Trail Blazers,104,96
+"Mon, Jan 29, 2024",New York Knicks,Charlotte Hornets,113,92
+"Mon, Jan 29, 2024",Los Angeles Clippers,Cleveland Cavaliers,108,118
+"Mon, Jan 29, 2024",New Orleans Pelicans,Boston Celtics,112,118
+"Mon, Jan 29, 2024",Utah Jazz,Brooklyn Nets,114,147
+"Mon, Jan 29, 2024",Phoenix Suns,Miami Heat,118,105
+"Mon, Jan 29, 2024",Los Angeles Lakers,Houston Rockets,119,135
+"Mon, Jan 29, 2024",Sacramento Kings,Memphis Grizzlies,103,94
+"Mon, Jan 29, 2024",Minnesota Timberwolves,Oklahoma City Thunder,107,101
+"Mon, Jan 29, 2024",Washington Wizards,San Antonio Spurs,118,113
+"Mon, Jan 29, 2024",Orlando Magic,Dallas Mavericks,129,131
+"Mon, Jan 29, 2024",Milwaukee Bucks,Denver Nuggets,107,113
+"Mon, Jan 29, 2024",Philadelphia 76ers,Portland Trail Blazers,104,130
+"Tue, Jan 30, 2024",Los Angeles Lakers,Atlanta Hawks,122,138
+"Tue, Jan 30, 2024",Indiana Pacers,Boston Celtics,124,129
+"Tue, Jan 30, 2024",Utah Jazz,New York Knicks,103,118
+"Tue, Jan 30, 2024",Toronto Raptors,Chicago Bulls,118,107
+"Tue, Jan 30, 2024",Philadelphia 76ers,Golden State Warriors,107,119
+"Wed, Jan 31, 2024",Chicago Bulls,Charlotte Hornets,117,110
+"Wed, Jan 31, 2024",Detroit Pistons,Cleveland Cavaliers,121,128
+"Wed, Jan 31, 2024",Los Angeles Clippers,Washington Wizards,125,109
+"Wed, Jan 31, 2024",Sacramento Kings,Miami Heat,106,115
+"Wed, Jan 31, 2024",New Orleans Pelicans,Houston Rockets,110,99
+"Wed, Jan 31, 2024",Dallas Mavericks,Minnesota Timberwolves,87,121
+"Wed, Jan 31, 2024",Denver Nuggets,Oklahoma City Thunder,100,105
+"Wed, Jan 31, 2024",Orlando Magic,San Antonio Spurs,108,98
+"Wed, Jan 31, 2024",Phoenix Suns,Brooklyn Nets,136,120
+"Wed, Jan 31, 2024",Milwaukee Bucks,Portland Trail Blazers,116,119
+"Thu, Feb 1, 2024",Los Angeles Lakers,Boston Celtics,114,105
+"Thu, Feb 1, 2024",Indiana Pacers,New York Knicks,105,109
+"Thu, Feb 1, 2024",Cleveland Cavaliers,Memphis Grizzlies,108,101
+"Thu, Feb 1, 2024",Philadelphia 76ers,Utah Jazz,127,124
+"Fri, Feb 2, 2024",Los Angeles Clippers,Detroit Pistons,136,125
+"Fri, Feb 2, 2024",Miami Heat,Washington Wizards,110,102
+"Fri, Feb 2, 2024",Phoenix Suns,Atlanta Hawks,120,129
+"Fri, Feb 2, 2024",Sacramento Kings,Indiana Pacers,133,122
+"Fri, Feb 2, 2024",Toronto Raptors,Houston Rockets,106,135
+"Fri, Feb 2, 2024",Golden State Warriors,Memphis Grizzlies,121,101
+"Fri, Feb 2, 2024",Orlando Magic,Minnesota Timberwolves,108,106
+"Fri, Feb 2, 2024",Charlotte Hornets,Oklahoma City Thunder,106,126
+"Fri, Feb 2, 2024",New Orleans Pelicans,San Antonio Spurs,114,113
+"Fri, Feb 2, 2024",Portland Trail Blazers,Denver Nuggets,108,120
+"Sat, Feb 3, 2024",Brooklyn Nets,Philadelphia 76ers,136,121
+"Sat, Feb 3, 2024",Golden State Warriors,Atlanta Hawks,134,141
+"Sat, Feb 3, 2024",Sacramento Kings,Chicago Bulls,123,115
+"Sat, Feb 3, 2024",Milwaukee Bucks,Dallas Mavericks,129,117
+"Sat, Feb 3, 2024",Los Angeles Lakers,New York Knicks,113,105
+"Sat, Feb 3, 2024",Cleveland Cavaliers,San Antonio Spurs,117,101
+"Sun, Feb 4, 2024",Orlando Magic,Detroit Pistons,111,99
+"Sun, Feb 4, 2024",Phoenix Suns,Washington Wizards,140,112
+"Sun, Feb 4, 2024",Memphis Grizzlies,Boston Celtics,91,131
+"Sun, Feb 4, 2024",Indiana Pacers,Charlotte Hornets,115,99
+"Sun, Feb 4, 2024",Los Angeles Clippers,Miami Heat,103,95
+"Sun, Feb 4, 2024",Houston Rockets,Minnesota Timberwolves,90,111
+"Sun, Feb 4, 2024",Toronto Raptors,Oklahoma City Thunder,127,135
+"Sun, Feb 4, 2024",Milwaukee Bucks,Utah Jazz,108,123
+"Sun, Feb 4, 2024",Portland Trail Blazers,Denver Nuggets,103,112
+"Mon, Feb 5, 2024",Los Angeles Lakers,Charlotte Hornets,124,118
+"Mon, Feb 5, 2024",Sacramento Kings,Cleveland Cavaliers,110,136
+"Mon, Feb 5, 2024",Dallas Mavericks,Philadelphia 76ers,118,102
+"Mon, Feb 5, 2024",Los Angeles Clippers,Atlanta Hawks,149,144
+"Mon, Feb 5, 2024",Golden State Warriors,Brooklyn Nets,109,98
+"Mon, Feb 5, 2024",Toronto Raptors,New Orleans Pelicans,100,138
+"Tue, Feb 6, 2024",Houston Rockets,Indiana Pacers,129,132
+"Tue, Feb 6, 2024",Dallas Mavericks,Brooklyn Nets,119,107
+"Tue, Feb 6, 2024",Orlando Magic,Miami Heat,95,121
+"Tue, Feb 6, 2024",Memphis Grizzlies,New York Knicks,113,123
+"Tue, Feb 6, 2024",Minnesota Timberwolves,Chicago Bulls,123,129
+"Tue, Feb 6, 2024",Oklahoma City Thunder,Utah Jazz,117,124
+"Tue, Feb 6, 2024",Milwaukee Bucks,Phoenix Suns,106,114
+"Wed, Feb 7, 2024",Toronto Raptors,Charlotte Hornets,123,117
+"Wed, Feb 7, 2024",Cleveland Cavaliers,Washington Wizards,114,106
+"Wed, Feb 7, 2024",Atlanta Hawks,Boston Celtics,117,125
+"Wed, Feb 7, 2024",San Antonio Spurs,Miami Heat,104,116
+"Wed, Feb 7, 2024",Golden State Warriors,Philadelphia 76ers,127,104
+"Wed, Feb 7, 2024",New Orleans Pelicans,Los Angeles Clippers,117,106
+"Wed, Feb 7, 2024",Detroit Pistons,Sacramento Kings,133,120
+"Thu, Feb 8, 2024",Golden State Warriors,Indiana Pacers,131,109
+"Thu, Feb 8, 2024",San Antonio Spurs,Orlando Magic,111,127
+"Thu, Feb 8, 2024",Cleveland Cavaliers,Brooklyn Nets,118,95
+"Thu, Feb 8, 2024",Dallas Mavericks,New York Knicks,122,108
+"Thu, Feb 8, 2024",Chicago Bulls,Memphis Grizzlies,118,110
+"Thu, Feb 8, 2024",Minnesota Timberwolves,Milwaukee Bucks,129,105
+"Thu, Feb 8, 2024",Utah Jazz,Phoenix Suns,115,129
+"Thu, Feb 8, 2024",Denver Nuggets,Los Angeles Lakers,114,106
+"Thu, Feb 8, 2024",Detroit Pistons,Portland Trail Blazers,128,122
+"Fri, Feb 9, 2024",Atlanta Hawks,Philadelphia 76ers,127,121
+"Fri, Feb 9, 2024",Washington Wizards,Boston Celtics,129,133
+"Fri, Feb 9, 2024",Houston Rockets,Toronto Raptors,104,107
+"Fri, Feb 9, 2024",Charlotte Hornets,Milwaukee Bucks,84,120
+"Fri, Feb 9, 2024",Denver Nuggets,Sacramento Kings,106,135
+"Fri, Feb 9, 2024",New Orleans Pelicans,Los Angeles Lakers,122,139
+"Sat, Feb 10, 2024",Oklahoma City Thunder,Dallas Mavericks,111,146
+"Sat, Feb 10, 2024",Detroit Pistons,Los Angeles Clippers,106,112
+"Sat, Feb 10, 2024",San Antonio Spurs,Brooklyn Nets,103,123
+"Sat, Feb 10, 2024",Memphis Grizzlies,Charlotte Hornets,106,115
+"Sat, Feb 10, 2024",Chicago Bulls,Orlando Magic,108,114
+"Sat, Feb 10, 2024",Philadelphia 76ers,Washington Wizards,119,113
+"Sat, Feb 10, 2024",Houston Rockets,Atlanta Hawks,113,122
+"Sat, Feb 10, 2024",Indiana Pacers,New York Knicks,125,111
+"Sat, Feb 10, 2024",Cleveland Cavaliers,Toronto Raptors,119,95
+"Sat, Feb 10, 2024",Phoenix Suns,Golden State Warriors,112,113
+"Sat, Feb 10, 2024",New Orleans Pelicans,Portland Trail Blazers,93,84
+"Sun, Feb 11, 2024",Boston Celtics,Miami Heat,110,106
+"Sun, Feb 11, 2024",Sacramento Kings,Oklahoma City Thunder,113,127
+"Mon, Feb 12, 2024",Indiana Pacers,Charlotte Hornets,102,111
+"Mon, Feb 12, 2024",Philadelphia 76ers,Cleveland Cavaliers,123,121
+"Mon, Feb 12, 2024",Chicago Bulls,Atlanta Hawks,136,126
+"Mon, Feb 12, 2024",San Antonio Spurs,Toronto Raptors,122,99
+"Mon, Feb 12, 2024",New York Knicks,Houston Rockets,103,105
+"Mon, Feb 12, 2024",New Orleans Pelicans,Memphis Grizzlies,96,87
+"Mon, Feb 12, 2024",Denver Nuggets,Milwaukee Bucks,95,112
+"Mon, Feb 12, 2024",Washington Wizards,Dallas Mavericks,104,112
+"Mon, Feb 12, 2024",Golden State Warriors,Utah Jazz,129,107
+"Mon, Feb 12, 2024",Minnesota Timberwolves,Los Angeles Clippers,121,100
+"Tue, Feb 13, 2024",Boston Celtics,Brooklyn Nets,118,110
+"Tue, Feb 13, 2024",Oklahoma City Thunder,Orlando Magic,127,113
+"Tue, Feb 13, 2024",Miami Heat,Milwaukee Bucks,123,97
+"Tue, Feb 13, 2024",Sacramento Kings,Phoenix Suns,125,130
+"Tue, Feb 13, 2024",Minnesota Timberwolves,Portland Trail Blazers,121,109
+"Tue, Feb 13, 2024",Detroit Pistons,Los Angeles Lakers,111,125
+"Wed, Feb 14, 2024",Atlanta Hawks,Charlotte Hornets,99,122
+"Wed, Feb 14, 2024",New York Knicks,Orlando Magic,100,118
+"Wed, Feb 14, 2024",Miami Heat,Philadelphia 76ers,109,104
+"Wed, Feb 14, 2024",Brooklyn Nets,Boston Celtics,86,136
+"Wed, Feb 14, 2024",Chicago Bulls,Cleveland Cavaliers,105,108
+"Wed, Feb 14, 2024",Indiana Pacers,Toronto Raptors,127,125
+"Wed, Feb 14, 2024",Houston Rockets,Memphis Grizzlies,113,121
+"Wed, Feb 14, 2024",Washington Wizards,New Orleans Pelicans,126,133
+"Wed, Feb 14, 2024",San Antonio Spurs,Dallas Mavericks,93,116
+"Wed, Feb 14, 2024",Sacramento Kings,Denver Nuggets,102,98
+"Wed, Feb 14, 2024",Detroit Pistons,Phoenix Suns,100,116
+"Wed, Feb 14, 2024",Los Angeles Lakers,Utah Jazz,138,122
+"Wed, Feb 14, 2024",Los Angeles Clippers,Golden State Warriors,130,125
+"Thu, Feb 15, 2024",Milwaukee Bucks,Memphis Grizzlies,110,113
+"Thu, Feb 15, 2024",Golden State Warriors,Utah Jazz,140,137
+"Thu, Feb 15, 2024",Minnesota Timberwolves,Portland Trail Blazers,128,91
+"Thu, Feb 22, 2024",Orlando Magic,Cleveland Cavaliers,116,109
+"Thu, Feb 22, 2024",Detroit Pistons,Indiana Pacers,115,129
+"Thu, Feb 22, 2024",New York Knicks,Philadelphia 76ers,110,96
+"Thu, Feb 22, 2024",Brooklyn Nets,Toronto Raptors,93,121
+"Thu, Feb 22, 2024",Phoenix Suns,Dallas Mavericks,113,123
+"Thu, Feb 22, 2024",Boston Celtics,Chicago Bulls,129,112
+"Thu, Feb 22, 2024",Houston Rockets,New Orleans Pelicans,105,127
+"Thu, Feb 22, 2024",Los Angeles Clippers,Oklahoma City Thunder,107,129
+"Thu, Feb 22, 2024",Washington Wizards,Denver Nuggets,110,130
+"Thu, Feb 22, 2024",Charlotte Hornets,Utah Jazz,115,107
+"Thu, Feb 22, 2024",Los Angeles Lakers,Golden State Warriors,110,128
+"Thu, Feb 22, 2024",San Antonio Spurs,Sacramento Kings,122,127
+"Fri, Feb 23, 2024",Toronto Raptors,Atlanta Hawks,123,121
+"Fri, Feb 23, 2024",Cleveland Cavaliers,Philadelphia 76ers,97,104
+"Fri, Feb 23, 2024",Phoenix Suns,Houston Rockets,110,114
+"Fri, Feb 23, 2024",Los Angeles Clippers,Memphis Grizzlies,101,95
+"Fri, Feb 23, 2024",Miami Heat,New Orleans Pelicans,106,95
+"Fri, Feb 23, 2024",Washington Wizards,Oklahoma City Thunder,106,147
+"Fri, Feb 23, 2024",Charlotte Hornets,Golden State Warriors,84,97
+"Fri, Feb 23, 2024",Milwaukee Bucks,Minnesota Timberwolves,112,107
+"Fri, Feb 23, 2024",Denver Nuggets,Portland Trail Blazers,127,112
+"Fri, Feb 23, 2024",San Antonio Spurs,Los Angeles Lakers,118,123
+"Sat, Feb 24, 2024",Orlando Magic,Detroit Pistons,112,109
+"Sat, Feb 24, 2024",Boston Celtics,New York Knicks,116,102
+"Sat, Feb 24, 2024",Brooklyn Nets,Minnesota Timberwolves,86,101
+"Sun, Feb 25, 2024",Milwaukee Bucks,Philadelphia 76ers,119,98
+"Sun, Feb 25, 2024",Los Angeles Lakers,Phoenix Suns,113,123
+"Sun, Feb 25, 2024",Dallas Mavericks,Indiana Pacers,111,133
+"Sun, Feb 25, 2024",Cleveland Cavaliers,Washington Wizards,114,105
+"Sun, Feb 25, 2024",Orlando Magic,Atlanta Hawks,92,109
+"Sun, Feb 25, 2024",Denver Nuggets,Golden State Warriors,119,103
+"Sun, Feb 25, 2024",Oklahoma City Thunder,Houston Rockets,123,110
+"Sun, Feb 25, 2024",Chicago Bulls,New Orleans Pelicans,114,106
+"Sun, Feb 25, 2024",San Antonio Spurs,Utah Jazz,109,128
+"Sun, Feb 25, 2024",Charlotte Hornets,Portland Trail Blazers,93,80
+"Sun, Feb 25, 2024",Sacramento Kings,Los Angeles Clippers,123,107
+"Mon, Feb 26, 2024",Toronto Raptors,Indiana Pacers,130,122
+"Mon, Feb 26, 2024",Detroit Pistons,New York Knicks,111,113
+"Mon, Feb 26, 2024",Brooklyn Nets,Memphis Grizzlies,111,86
+"Mon, Feb 26, 2024",Miami Heat,Sacramento Kings,121,110
+"Tue, Feb 27, 2024",Dallas Mavericks,Cleveland Cavaliers,119,121
+"Tue, Feb 27, 2024",Brooklyn Nets,Orlando Magic,81,108
+"Tue, Feb 27, 2024",Golden State Warriors,Washington Wizards,123,112
+"Tue, Feb 27, 2024",Utah Jazz,Atlanta Hawks,97,124
+"Tue, Feb 27, 2024",Philadelphia 76ers,Boston Celtics,99,117
+"Tue, Feb 27, 2024",New Orleans Pelicans,New York Knicks,115,92
+"Tue, Feb 27, 2024",Detroit Pistons,Chicago Bulls,105,95
+"Tue, Feb 27, 2024",Charlotte Hornets,Milwaukee Bucks,85,123
+"Tue, Feb 27, 2024",San Antonio Spurs,Minnesota Timberwolves,105,114
+"Tue, Feb 27, 2024",Houston Rockets,Oklahoma City Thunder,95,112
+"Tue, Feb 27, 2024",Miami Heat,Portland Trail Blazers,106,96
+"Wed, Feb 28, 2024",New Orleans Pelicans,Indiana Pacers,114,123
+"Wed, Feb 28, 2024",Dallas Mavericks,Toronto Raptors,136,125
+"Wed, Feb 28, 2024",Cleveland Cavaliers,Chicago Bulls,123,132
+"Wed, Feb 28, 2024",Memphis Grizzlies,Minnesota Timberwolves,101,110
+"Wed, Feb 28, 2024",Sacramento Kings,Denver Nuggets,96,117
+"Wed, Feb 28, 2024",Los Angeles Lakers,Los Angeles Clippers,116,112
+"Thu, Feb 29, 2024",Milwaukee Bucks,Charlotte Hornets,111,99
+"Thu, Feb 29, 2024",Utah Jazz,Orlando Magic,107,115
+"Thu, Feb 29, 2024",Atlanta Hawks,Brooklyn Nets,97,124
+"Thu, Feb 29, 2024",Golden State Warriors,New York Knicks,110,99
+"Thu, Feb 29, 2024",Oklahoma City Thunder,San Antonio Spurs,118,132
+"Thu, Feb 29, 2024",Houston Rockets,Phoenix Suns,105,110
+"Thu, Feb 29, 2024",Miami Heat,Denver Nuggets,97,103
+"Thu, Feb 29, 2024",Washington Wizards,Los Angeles Lakers,131,134
+"Fri, Mar 1, 2024",Cleveland Cavaliers,Detroit Pistons,110,100
+"Fri, Mar 1, 2024",Charlotte Hornets,Philadelphia 76ers,114,121
+"Fri, Mar 1, 2024",Dallas Mavericks,Boston Celtics,110,138
+"Fri, Mar 1, 2024",Golden State Warriors,Toronto Raptors,120,105
+"Fri, Mar 1, 2024",Portland Trail Blazers,Memphis Grizzlies,122,92
+"Fri, Mar 1, 2024",Sacramento Kings,Minnesota Timberwolves,124,120
+"Fri, Mar 1, 2024",Indiana Pacers,New Orleans Pelicans,102,129
+"Fri, Mar 1, 2024",Milwaukee Bucks,Chicago Bulls,113,97
+"Fri, Mar 1, 2024",Washington Wizards,Los Angeles Clippers,115,140
+"Sat, Mar 2, 2024",Atlanta Hawks,Brooklyn Nets,102,114
+"Sat, Mar 2, 2024",Utah Jazz,Miami Heat,120,126
+"Sat, Mar 2, 2024",Portland Trail Blazers,Memphis Grizzlies,107,100
+"Sat, Mar 2, 2024",Denver Nuggets,Los Angeles Lakers,124,114
+"Sat, Mar 2, 2024",Houston Rockets,Phoenix Suns,118,109
+"Sun, Mar 3, 2024",Philadelphia 76ers,Dallas Mavericks,120,116
+"Sun, Mar 3, 2024",Golden State Warriors,Boston Celtics,88,140
+"Sun, Mar 3, 2024",Los Angeles Clippers,Minnesota Timberwolves,89,88
+"Sun, Mar 3, 2024",Detroit Pistons,Orlando Magic,91,113
+"Sun, Mar 3, 2024",Charlotte Hornets,Toronto Raptors,106,111
+"Sun, Mar 3, 2024",New York Knicks,Cleveland Cavaliers,107,98
+"Sun, Mar 3, 2024",Indiana Pacers,San Antonio Spurs,105,117
+"Sun, Mar 3, 2024",Oklahoma City Thunder,Phoenix Suns,118,110
+"Mon, Mar 4, 2024",Memphis Grizzlies,Brooklyn Nets,106,102
+"Mon, Mar 4, 2024",Los Angeles Clippers,Milwaukee Bucks,106,113
+"Mon, Mar 4, 2024",Portland Trail Blazers,Minnesota Timberwolves,114,119
+"Mon, Mar 4, 2024",Washington Wizards,Utah Jazz,115,127
+"Mon, Mar 4, 2024",Chicago Bulls,Sacramento Kings,113,109
+"Mon, Mar 4, 2024",Oklahoma City Thunder,Los Angeles Lakers,104,116
+"Tue, Mar 5, 2024",Orlando Magic,Charlotte Hornets,101,89
+"Tue, Mar 5, 2024",Philadelphia 76ers,Brooklyn Nets,107,112
+"Tue, Mar 5, 2024",Boston Celtics,Cleveland Cavaliers,104,105
+"Tue, Mar 5, 2024",Detroit Pistons,Miami Heat,110,118
+"Tue, Mar 5, 2024",Atlanta Hawks,New York Knicks,116,100
+"Tue, Mar 5, 2024",New Orleans Pelicans,Toronto Raptors,139,98
+"Tue, Mar 5, 2024",San Antonio Spurs,Houston Rockets,101,114
+"Tue, Mar 5, 2024",Indiana Pacers,Dallas Mavericks,137,120
+"Tue, Mar 5, 2024",Phoenix Suns,Denver Nuggets,117,107
+"Wed, Mar 6, 2024",Orlando Magic,Washington Wizards,119,109
+"Wed, Mar 6, 2024",Cleveland Cavaliers,Atlanta Hawks,101,112
+"Wed, Mar 6, 2024",Los Angeles Clippers,Houston Rockets,122,116
+"Wed, Mar 6, 2024",Memphis Grizzlies,Philadelphia 76ers,115,109
+"Wed, Mar 6, 2024",Chicago Bulls,Utah Jazz,119,117
+"Wed, Mar 6, 2024",Milwaukee Bucks,Golden State Warriors,90,125
+"Wed, Mar 6, 2024",Oklahoma City Thunder,Portland Trail Blazers,128,120
+"Wed, Mar 6, 2024",Sacramento Kings,Los Angeles Lakers,130,120
+"Thu, Mar 7, 2024",Brooklyn Nets,Detroit Pistons,112,118
+"Thu, Mar 7, 2024",Minnesota Timberwolves,Indiana Pacers,113,111
+"Thu, Mar 7, 2024",Miami Heat,Dallas Mavericks,108,114
+"Thu, Mar 7, 2024",Toronto Raptors,Phoenix Suns,113,120
+"Thu, Mar 7, 2024",Boston Celtics,Denver Nuggets,109,115
+"Thu, Mar 7, 2024",Chicago Bulls,Golden State Warriors,125,122
+"Thu, Mar 7, 2024",San Antonio Spurs,Sacramento Kings,129,131
+"Fri, Mar 8, 2024",New Orleans Pelicans,Philadelphia 76ers,103,95
+"Fri, Mar 8, 2024",Charlotte Hornets,Washington Wizards,100,112
+"Fri, Mar 8, 2024",Minnesota Timberwolves,Cleveland Cavaliers,104,113
+"Fri, Mar 8, 2024",Orlando Magic,New York Knicks,74,98
+"Fri, Mar 8, 2024",Atlanta Hawks,Memphis Grizzlies,99,92
+"Fri, Mar 8, 2024",Miami Heat,Oklahoma City Thunder,100,107
+"Fri, Mar 8, 2024",Milwaukee Bucks,Los Angeles Lakers,122,123
+"Fri, Mar 8, 2024",Houston Rockets,Portland Trail Blazers,123,107
+"Sat, Mar 9, 2024",Chicago Bulls,Los Angeles Clippers,102,112
+"Sat, Mar 9, 2024",Brooklyn Nets,Charlotte Hornets,99,110
+"Sat, Mar 9, 2024",Dallas Mavericks,Detroit Pistons,142,124
+"Sat, Mar 9, 2024",San Antonio Spurs,Golden State Warriors,126,113
+"Sat, Mar 9, 2024",Boston Celtics,Phoenix Suns,117,107
+"Sat, Mar 9, 2024",Utah Jazz,Denver Nuggets,121,142
+"Sat, Mar 9, 2024",Toronto Raptors,Portland Trail Blazers,118,128
+"Sun, Mar 10, 2024",Milwaukee Bucks,Los Angeles Clippers,124,117
+"Sun, Mar 10, 2024",New Orleans Pelicans,Atlanta Hawks,116,103
+"Sun, Mar 10, 2024",Washington Wizards,Miami Heat,110,108
+"Sun, Mar 10, 2024",Indiana Pacers,Orlando Magic,111,97
+"Sun, Mar 10, 2024",Houston Rockets,Sacramento Kings,112,104
+"Sun, Mar 10, 2024",Brooklyn Nets,Cleveland Cavaliers,120,101
+"Sun, Mar 10, 2024",Philadelphia 76ers,New York Knicks,79,73
+"Sun, Mar 10, 2024",Memphis Grizzlies,Oklahoma City Thunder,93,124
+"Sun, Mar 10, 2024",Minnesota Timberwolves,Los Angeles Lakers,109,120
+"Mon, Mar 11, 2024",Charlotte Hornets,Detroit Pistons,97,114
+"Mon, Mar 11, 2024",Phoenix Suns,Cleveland Cavaliers,117,111
+"Mon, Mar 11, 2024",Dallas Mavericks,Chicago Bulls,127,92
+"Mon, Mar 11, 2024",Golden State Warriors,San Antonio Spurs,112,102
+"Mon, Mar 11, 2024",Toronto Raptors,Denver Nuggets,119,125
+"Mon, Mar 11, 2024",Boston Celtics,Portland Trail Blazers,121,99
+"Tue, Mar 12, 2024",Philadelphia 76ers,New York Knicks,79,106
+"Tue, Mar 12, 2024",Washington Wizards,Memphis Grizzlies,97,109
+"Tue, Mar 12, 2024",Indiana Pacers,Oklahoma City Thunder,121,111
+"Tue, Mar 12, 2024",Houston Rockets,San Antonio Spurs,103,101
+"Tue, Mar 12, 2024",Boston Celtics,Utah Jazz,123,107
+"Tue, Mar 12, 2024",Minnesota Timberwolves,Los Angeles Clippers,118,100
+"Tue, Mar 12, 2024",Milwaukee Bucks,Sacramento Kings,94,129
+"Wed, Mar 13, 2024",Toronto Raptors,Detroit Pistons,104,113
+"Wed, Mar 13, 2024",Brooklyn Nets,Orlando Magic,106,114
+"Wed, Mar 13, 2024",Chicago Bulls,Indiana Pacers,132,129
+"Wed, Mar 13, 2024",Denver Nuggets,Miami Heat,100,88
+"Wed, Mar 13, 2024",Charlotte Hornets,Memphis Grizzlies,110,98
+"Wed, Mar 13, 2024",Cleveland Cavaliers,New Orleans Pelicans,116,95
+"Wed, Mar 13, 2024",Golden State Warriors,Dallas Mavericks,99,109
+"Wed, Mar 13, 2024",Atlanta Hawks,Portland Trail Blazers,102,106
+"Wed, Mar 13, 2024",Los Angeles Lakers,Sacramento Kings,107,120
+"Thu, Mar 14, 2024",Phoenix Suns,Boston Celtics,112,127
+"Thu, Mar 14, 2024",Los Angeles Clippers,Chicago Bulls,126,111
+"Thu, Mar 14, 2024",Washington Wizards,Houston Rockets,119,135
+"Thu, Mar 14, 2024",Philadelphia 76ers,Milwaukee Bucks,105,114
+"Thu, Mar 14, 2024",Dallas Mavericks,Oklahoma City Thunder,119,126
+"Thu, Mar 14, 2024",New York Knicks,Portland Trail Blazers,105,93
+"Fri, Mar 15, 2024",Phoenix Suns,Charlotte Hornets,107,96
+"Fri, Mar 15, 2024",Miami Heat,Detroit Pistons,108,95
+"Fri, Mar 15, 2024",Orlando Magic,Toronto Raptors,113,103
+"Fri, Mar 15, 2024",Los Angeles Clippers,New Orleans Pelicans,104,112
+"Fri, Mar 15, 2024",Denver Nuggets,San Antonio Spurs,117,106
+"Fri, Mar 15, 2024",Atlanta Hawks,Utah Jazz,122,124
+"Sat, Mar 16, 2024",Cleveland Cavaliers,Houston Rockets,103,117
+"Sat, Mar 16, 2024",Brooklyn Nets,Indiana Pacers,100,121
+"Sat, Mar 16, 2024",Portland Trail Blazers,New Orleans Pelicans,107,126
+"Sat, Mar 16, 2024",Charlotte Hornets,Philadelphia 76ers,98,109
+"Sat, Mar 16, 2024",Washington Wizards,Chicago Bulls,98,127
+"Sat, Mar 16, 2024",Oklahoma City Thunder,Memphis Grizzlies,118,112
+"Sat, Mar 16, 2024",Golden State Warriors,Los Angeles Lakers,128,121
+"Sat, Mar 16, 2024",Minnesota Timberwolves,Utah Jazz,119,100
+"Sat, Mar 16, 2024",New York Knicks,Sacramento Kings,98,91
+"Sun, Mar 17, 2024",Phoenix Suns,Milwaukee Bucks,129,140
+"Sun, Mar 17, 2024",Miami Heat,Detroit Pistons,104,101
+"Sun, Mar 17, 2024",Denver Nuggets,Dallas Mavericks,105,107
+"Sun, Mar 17, 2024",Toronto Raptors,Orlando Magic,96,111
+"Sun, Mar 17, 2024",Boston Celtics,Washington Wizards,130,104
+"Sun, Mar 17, 2024",Brooklyn Nets,San Antonio Spurs,115,122
+"Sun, Mar 17, 2024",Atlanta Hawks,Los Angeles Clippers,110,93
+"Mon, Mar 18, 2024",Cleveland Cavaliers,Indiana Pacers,108,103
+"Mon, Mar 18, 2024",Detroit Pistons,Boston Celtics,94,119
+"Mon, Mar 18, 2024",Miami Heat,Philadelphia 76ers,91,98
+"Mon, Mar 18, 2024",Portland Trail Blazers,Chicago Bulls,107,110
+"Mon, Mar 18, 2024",Minnesota Timberwolves,Utah Jazz,114,104
+"Mon, Mar 18, 2024",New York Knicks,Golden State Warriors,119,112
+"Mon, Mar 18, 2024",Memphis Grizzlies,Sacramento Kings,111,121
+"Mon, Mar 18, 2024",Atlanta Hawks,Los Angeles Lakers,105,136
+"Tue, Mar 19, 2024",Charlotte Hornets,Orlando Magic,92,112
+"Tue, Mar 19, 2024",Houston Rockets,Washington Wizards,137,114
+"Tue, Mar 19, 2024",New Orleans Pelicans,Brooklyn Nets,104,91
+"Tue, Mar 19, 2024",Dallas Mavericks,San Antonio Spurs,113,107
+"Tue, Mar 19, 2024",Denver Nuggets,Minnesota Timberwolves,115,112
+"Wed, Mar 20, 2024",Miami Heat,Cleveland Cavaliers,107,104
+"Wed, Mar 20, 2024",Indiana Pacers,Detroit Pistons,122,103
+"Wed, Mar 20, 2024",Milwaukee Bucks,Boston Celtics,119,122
+"Wed, Mar 20, 2024",Sacramento Kings,Toronto Raptors,123,89
+"Wed, Mar 20, 2024",Utah Jazz,Oklahoma City Thunder,107,119
+"Wed, Mar 20, 2024",Memphis Grizzlies,Golden State Warriors,116,137
+"Wed, Mar 20, 2024",Philadelphia 76ers,Phoenix Suns,102,115
+"Wed, Mar 20, 2024",Los Angeles Clippers,Portland Trail Blazers,116,103
+"Thu, Mar 21, 2024",New Orleans Pelicans,Orlando Magic,106,121
+"Thu, Mar 21, 2024",Sacramento Kings,Washington Wizards,102,109
+"Thu, Mar 21, 2024",Chicago Bulls,Houston Rockets,117,127
+"Thu, Mar 21, 2024",Brooklyn Nets,Milwaukee Bucks,108,115
+"Thu, Mar 21, 2024",Utah Jazz,Dallas Mavericks,97,113
+"Thu, Mar 21, 2024",New York Knicks,Denver Nuggets,100,113
+"Thu, Mar 21, 2024",Atlanta Hawks,Phoenix Suns,115,128
+"Fri, Mar 22, 2024",Boston Celtics,Detroit Pistons,129,102
+"Fri, Mar 22, 2024",Oklahoma City Thunder,Toronto Raptors,123,103
+"Fri, Mar 22, 2024",New Orleans Pelicans,Miami Heat,111,88
+"Fri, Mar 22, 2024",Cleveland Cavaliers,Minnesota Timberwolves,91,104
+"Fri, Mar 22, 2024",Memphis Grizzlies,San Antonio Spurs,99,97
+"Fri, Mar 22, 2024",Indiana Pacers,Golden State Warriors,123,111
+"Fri, Mar 22, 2024",Los Angeles Clippers,Portland Trail Blazers,125,117
+"Fri, Mar 22, 2024",Philadelphia 76ers,Los Angeles Lakers,94,101
+"Sat, Mar 23, 2024",Brooklyn Nets,New York Knicks,93,105
+"Sat, Mar 23, 2024",Sacramento Kings,Orlando Magic,109,107
+"Sat, Mar 23, 2024",Charlotte Hornets,Atlanta Hawks,91,132
+"Sat, Mar 23, 2024",Boston Celtics,Chicago Bulls,124,113
+"Sat, Mar 23, 2024",Utah Jazz,Houston Rockets,119,147
+"Sat, Mar 23, 2024",Phoenix Suns,San Antonio Spurs,131,106
+"Sat, Mar 23, 2024",Toronto Raptors,Washington Wizards,109,112
+"Sat, Mar 23, 2024",Denver Nuggets,Portland Trail Blazers,114,111
+"Sun, Mar 24, 2024",New Orleans Pelicans,Detroit Pistons,114,101
+"Sun, Mar 24, 2024",Philadelphia 76ers,Los Angeles Clippers,121,107
+"Sun, Mar 24, 2024",Cleveland Cavaliers,Miami Heat,84,121
+"Sun, Mar 24, 2024",Oklahoma City Thunder,Milwaukee Bucks,93,118
+"Sun, Mar 24, 2024",Golden State Warriors,Minnesota Timberwolves,110,114
+"Sun, Mar 24, 2024",Indiana Pacers,Los Angeles Lakers,145,150
+"Mon, Mar 25, 2024",Charlotte Hornets,Cleveland Cavaliers,92,115
+"Mon, Mar 25, 2024",Boston Celtics,Atlanta Hawks,118,120
+"Mon, Mar 25, 2024",Detroit Pistons,New York Knicks,99,124
+"Mon, Mar 25, 2024",Brooklyn Nets,Toronto Raptors,96,88
+"Mon, Mar 25, 2024",Washington Wizards,Chicago Bulls,107,105
+"Mon, Mar 25, 2024",Portland Trail Blazers,Houston Rockets,92,110
+"Mon, Mar 25, 2024",Phoenix Suns,San Antonio Spurs,102,104
+"Mon, Mar 25, 2024",Memphis Grizzlies,Denver Nuggets,103,128
+"Mon, Mar 25, 2024",Dallas Mavericks,Utah Jazz,115,105
+"Mon, Mar 25, 2024",Philadelphia 76ers,Sacramento Kings,96,108
+"Mon, Mar 25, 2024",Indiana Pacers,Los Angeles Clippers,133,116
+"Tue, Mar 26, 2024",Golden State Warriors,Miami Heat,113,92
+"Tue, Mar 26, 2024",Los Angeles Lakers,Milwaukee Bucks,128,124
+"Tue, Mar 26, 2024",Oklahoma City Thunder,New Orleans Pelicans,119,112
+"Tue, Mar 26, 2024",Dallas Mavericks,Sacramento Kings,132,96
+"Wed, Mar 27, 2024",Cleveland Cavaliers,Charlotte Hornets,111,118
+"Wed, Mar 27, 2024",Golden State Warriors,Orlando Magic,101,93
+"Wed, Mar 27, 2024",Brooklyn Nets,Washington Wizards,122,119
+"Wed, Mar 27, 2024",Portland Trail Blazers,Atlanta Hawks,106,120
+"Wed, Mar 27, 2024",Los Angeles Clippers,Philadelphia 76ers,108,107
+"Wed, Mar 27, 2024",New York Knicks,Toronto Raptors,145,101
+"Wed, Mar 27, 2024",Indiana Pacers,Chicago Bulls,99,125
+"Wed, Mar 27, 2024",Los Angeles Lakers,Memphis Grizzlies,136,124
+"Wed, Mar 27, 2024",Detroit Pistons,Minnesota Timberwolves,91,106
+"Wed, Mar 27, 2024",Houston Rockets,Oklahoma City Thunder,132,126
+"Wed, Mar 27, 2024",San Antonio Spurs,Utah Jazz,118,111
+"Wed, Mar 27, 2024",Phoenix Suns,Denver Nuggets,104,97
+"Thu, Mar 28, 2024",Boston Celtics,Atlanta Hawks,122,123
+"Thu, Mar 28, 2024",Milwaukee Bucks,New Orleans Pelicans,100,107
+"Fri, Mar 29, 2024",Golden State Warriors,Charlotte Hornets,115,97
+"Fri, Mar 29, 2024",Los Angeles Lakers,Indiana Pacers,90,109
+"Fri, Mar 29, 2024",Los Angeles Clippers,Orlando Magic,100,97
+"Fri, Mar 29, 2024",Detroit Pistons,Washington Wizards,96,87
+"Fri, Mar 29, 2024",Chicago Bulls,Brooklyn Nets,108,125
+"Fri, Mar 29, 2024",Philadelphia 76ers,Cleveland Cavaliers,114,117
+"Fri, Mar 29, 2024",Portland Trail Blazers,Miami Heat,82,142
+"Fri, Mar 29, 2024",Phoenix Suns,Oklahoma City Thunder,103,128
+"Fri, Mar 29, 2024",New York Knicks,San Antonio Spurs,126,130
+"Fri, Mar 29, 2024",Minnesota Timberwolves,Denver Nuggets,111,98
+"Fri, Mar 29, 2024",Houston Rockets,Utah Jazz,101,100
+"Fri, Mar 29, 2024",Dallas Mavericks,Sacramento Kings,107,103
+"Sat, Mar 30, 2024",Boston Celtics,New Orleans Pelicans,104,92
+"Sat, Mar 30, 2024",Memphis Grizzlies,Orlando Magic,88,118
+"Sat, Mar 30, 2024",Milwaukee Bucks,Atlanta Hawks,122,113
+"Sun, Mar 31, 2024",Cleveland Cavaliers,Denver Nuggets,101,130
+"Sun, Mar 31, 2024",Los Angeles Lakers,Brooklyn Nets,116,104
+"Sun, Mar 31, 2024",Los Angeles Clippers,Charlotte Hornets,130,118
+"Sun, Mar 31, 2024",Philadelphia 76ers,Toronto Raptors,135,120
+"Sun, Mar 31, 2024",Miami Heat,Washington Wizards,119,107
+"Sun, Mar 31, 2024",Dallas Mavericks,Houston Rockets,125,107
+"Sun, Mar 31, 2024",Chicago Bulls,Minnesota Timberwolves,109,101
+"Sun, Mar 31, 2024",Oklahoma City Thunder,New York Knicks,113,112
+"Sun, Mar 31, 2024",Golden State Warriors,San Antonio Spurs,117,113
+"Sun, Mar 31, 2024",Utah Jazz,Sacramento Kings,106,127
+"Mon, Apr 1, 2024",Boston Celtics,Charlotte Hornets,118,104
+"Mon, Apr 1, 2024",Memphis Grizzlies,Detroit Pistons,110,108
+"Mon, Apr 1, 2024",Brooklyn Nets,Indiana Pacers,111,133
+"Mon, Apr 1, 2024",Portland Trail Blazers,Orlando Magic,103,104
+"Mon, Apr 1, 2024",Atlanta Hawks,Chicago Bulls,113,101
+"Mon, Apr 1, 2024",Phoenix Suns,New Orleans Pelicans,124,111
+"Tue, Apr 2, 2024",Los Angeles Lakers,Toronto Raptors,128,111
+"Tue, Apr 2, 2024",Milwaukee Bucks,Washington Wizards,113,117
+"Tue, Apr 2, 2024",New York Knicks,Miami Heat,99,109
+"Tue, Apr 2, 2024",Oklahoma City Thunder,Philadelphia 76ers,105,109
+"Tue, Apr 2, 2024",Houston Rockets,Minnesota Timberwolves,106,113
+"Tue, Apr 2, 2024",San Antonio Spurs,Denver Nuggets,105,110
+"Tue, Apr 2, 2024",Cleveland Cavaliers,Utah Jazz,129,113
+"Tue, Apr 2, 2024",Dallas Mavericks,Golden State Warriors,100,104
+"Tue, Apr 2, 2024",Los Angeles Clippers,Sacramento Kings,95,109
+"Wed, Apr 3, 2024",Portland Trail Blazers,Charlotte Hornets,89,86
+"Wed, Apr 3, 2024",Los Angeles Lakers,Washington Wizards,125,120
+"Wed, Apr 3, 2024",Detroit Pistons,Atlanta Hawks,113,121
+"Wed, Apr 3, 2024",Oklahoma City Thunder,Boston Celtics,100,135
+"Wed, Apr 3, 2024",Indiana Pacers,Brooklyn Nets,111,115
+"Wed, Apr 3, 2024",Memphis Grizzlies,Milwaukee Bucks,111,101
+"Wed, Apr 3, 2024",Toronto Raptors,Minnesota Timberwolves,85,133
+"Wed, Apr 3, 2024",Orlando Magic,New Orleans Pelicans,117,108
+"Wed, Apr 3, 2024",Cleveland Cavaliers,Phoenix Suns,101,122
+"Thu, Apr 4, 2024",Atlanta Hawks,Dallas Mavericks,95,109
+"Thu, Apr 4, 2024",Philadelphia 76ers,Miami Heat,109,105
+"Thu, Apr 4, 2024",Sacramento Kings,New York Knicks,109,120
+"Thu, Apr 4, 2024",Golden State Warriors,Houston Rockets,133,110
+"Thu, Apr 4, 2024",Denver Nuggets,Los Angeles Clippers,100,102
+"Fri, Apr 5, 2024",Orlando Magic,Charlotte Hornets,115,124
+"Fri, Apr 5, 2024",Oklahoma City Thunder,Indiana Pacers,112,126
+"Fri, Apr 5, 2024",Portland Trail Blazers,Washington Wizards,108,102
+"Fri, Apr 5, 2024",Sacramento Kings,Boston Celtics,100,101
+"Fri, Apr 5, 2024",New York Knicks,Chicago Bulls,100,108
+"Fri, Apr 5, 2024",Miami Heat,Houston Rockets,119,104
+"Fri, Apr 5, 2024",Detroit Pistons,Memphis Grizzlies,90,108
+"Fri, Apr 5, 2024",Toronto Raptors,Milwaukee Bucks,117,111
+"Fri, Apr 5, 2024",San Antonio Spurs,New Orleans Pelicans,111,109
+"Fri, Apr 5, 2024",Golden State Warriors,Dallas Mavericks,106,108
+"Fri, Apr 5, 2024",Minnesota Timberwolves,Phoenix Suns,87,97
+"Fri, Apr 5, 2024",Utah Jazz,Los Angeles Clippers,102,131
+"Sat, Apr 6, 2024",Cleveland Cavaliers,Los Angeles Lakers,97,116
+"Sat, Apr 6, 2024",Detroit Pistons,Brooklyn Nets,103,113
+"Sat, Apr 6, 2024",Philadelphia 76ers,Memphis Grizzlies,116,96
+"Sat, Apr 6, 2024",Atlanta Hawks,Denver Nuggets,110,142
+"Sun, Apr 7, 2024",Houston Rockets,Dallas Mavericks,136,147
+"Sun, Apr 7, 2024",Cleveland Cavaliers,Los Angeles Clippers,118,120
+"Sun, Apr 7, 2024",Miami Heat,Indiana Pacers,115,117
+"Sun, Apr 7, 2024",Portland Trail Blazers,Boston Celtics,107,124
+"Sun, Apr 7, 2024",Oklahoma City Thunder,Charlotte Hornets,121,118
+"Sun, Apr 7, 2024",Chicago Bulls,Orlando Magic,98,113
+"Sun, Apr 7, 2024",New Orleans Pelicans,Phoenix Suns,113,105
+"Sun, Apr 7, 2024",Washington Wizards,Toronto Raptors,122,130
+"Sun, Apr 7, 2024",New York Knicks,Milwaukee Bucks,122,109
+"Sun, Apr 7, 2024",Philadelphia 76ers,San Antonio Spurs,133,126
+"Sun, Apr 7, 2024",Sacramento Kings,Brooklyn Nets,107,77
+"Sun, Apr 7, 2024",Utah Jazz,Golden State Warriors,110,118
+"Sun, Apr 7, 2024",Minnesota Timberwolves,Los Angeles Lakers,127,117
+"Tue, Apr 9, 2024",Dallas Mavericks,Charlotte Hornets,130,104
+"Tue, Apr 9, 2024",Detroit Pistons,Philadelphia 76ers,102,120
+"Tue, Apr 9, 2024",Indiana Pacers,Toronto Raptors,140,123
+"Tue, Apr 9, 2024",Miami Heat,Atlanta Hawks,117,111
+"Tue, Apr 9, 2024",Boston Celtics,Milwaukee Bucks,91,104
+"Tue, Apr 9, 2024",New York Knicks,Chicago Bulls,128,117
+"Tue, Apr 9, 2024",Orlando Magic,Houston Rockets,106,118
+"Tue, Apr 9, 2024",San Antonio Spurs,Memphis Grizzlies,102,87
+"Tue, Apr 9, 2024",Washington Wizards,Minnesota Timberwolves,121,130
+"Tue, Apr 9, 2024",Sacramento Kings,Oklahoma City Thunder,105,112
+"Tue, Apr 9, 2024",Denver Nuggets,Utah Jazz,111,95
+"Tue, Apr 9, 2024",Golden State Warriors,Los Angeles Lakers,134,120
+"Tue, Apr 9, 2024",Los Angeles Clippers,Phoenix Suns,105,92
+"Tue, Apr 9, 2024",New Orleans Pelicans,Portland Trail Blazers,110,100
+"Wed, Apr 10, 2024",Memphis Grizzlies,Cleveland Cavaliers,98,110
+"Wed, Apr 10, 2024",Charlotte Hornets,Atlanta Hawks,115,114
+"Wed, Apr 10, 2024",Toronto Raptors,Brooklyn Nets,102,106
+"Wed, Apr 10, 2024",Dallas Mavericks,Miami Heat,111,92
+"Wed, Apr 10, 2024",Orlando Magic,Milwaukee Bucks,99,117
+"Wed, Apr 10, 2024",San Antonio Spurs,Oklahoma City Thunder,89,127
+"Wed, Apr 10, 2024",Minnesota Timberwolves,Denver Nuggets,107,116
+"Wed, Apr 10, 2024",Phoenix Suns,Los Angeles Clippers,124,108
+"Thu, Apr 11, 2024",Chicago Bulls,Detroit Pistons,127,105
+"Thu, Apr 11, 2024",New York Knicks,Boston Celtics,118,109
+"Thu, Apr 11, 2024",Houston Rockets,Utah Jazz,121,124
+"Thu, Apr 11, 2024",Golden State Warriors,Portland Trail Blazers,100,92
+"Thu, Apr 11, 2024",New Orleans Pelicans,Sacramento Kings,135,123
+"Fri, Apr 12, 2024",Orlando Magic,Philadelphia 76ers,113,125
+"Fri, Apr 12, 2024",Chicago Bulls,Washington Wizards,129,127
+"Fri, Apr 12, 2024",Charlotte Hornets,Boston Celtics,98,131
+"Fri, Apr 12, 2024",Indiana Pacers,Cleveland Cavaliers,120,129
+"Fri, Apr 12, 2024",Brooklyn Nets,New York Knicks,107,111
+"Fri, Apr 12, 2024",Los Angeles Lakers,Memphis Grizzlies,123,120
+"Fri, Apr 12, 2024",Toronto Raptors,Miami Heat,103,125
+"Fri, Apr 12, 2024",Atlanta Hawks,Minnesota Timberwolves,106,109
+"Fri, Apr 12, 2024",Milwaukee Bucks,Oklahoma City Thunder,107,125
+"Fri, Apr 12, 2024",Denver Nuggets,San Antonio Spurs,120,121
+"Fri, Apr 12, 2024",Detroit Pistons,Dallas Mavericks,107,89
+"Fri, Apr 12, 2024",New Orleans Pelicans,Golden State Warriors,114,109
+"Fri, Apr 12, 2024",Houston Rockets,Portland Trail Blazers,116,107
+"Fri, Apr 12, 2024",Utah Jazz,Los Angeles Clippers,110,109
+"Fri, Apr 12, 2024",Phoenix Suns,Sacramento Kings,108,107
+"Sun, Apr 14, 2024",Washington Wizards,Boston Celtics,122,132
+"Sun, Apr 14, 2024",Charlotte Hornets,Cleveland Cavaliers,120,110
+"Sun, Apr 14, 2024",Atlanta Hawks,Indiana Pacers,115,157
+"Sun, Apr 14, 2024",Toronto Raptors,Miami Heat,103,118
+"Sun, Apr 14, 2024",Chicago Bulls,New York Knicks,119,120
+"Sun, Apr 14, 2024",Milwaukee Bucks,Orlando Magic,88,113
+"Sun, Apr 14, 2024",Brooklyn Nets,Philadelphia 76ers,86,107
+"Sun, Apr 14, 2024",Utah Jazz,Golden State Warriors,116,123
+"Sun, Apr 14, 2024",Houston Rockets,Los Angeles Clippers,116,105
+"Sun, Apr 14, 2024",Denver Nuggets,Memphis Grizzlies,126,111
+"Sun, Apr 14, 2024",Phoenix Suns,Minnesota Timberwolves,125,106
+"Sun, Apr 14, 2024",Los Angeles Lakers,New Orleans Pelicans,124,108
+"Sun, Apr 14, 2024",Dallas Mavericks,Oklahoma City Thunder,86,135
+"Sun, Apr 14, 2024",Portland Trail Blazers,Sacramento Kings,82,121
+"Sun, Apr 14, 2024",Detroit Pistons,San Antonio Spurs,95,123
+"Tue, Apr 16, 2024",Los Angeles Lakers,New Orleans Pelicans,110,106
+"Tue, Apr 16, 2024",Golden State Warriors,Sacramento Kings,94,118
+"Wed, Apr 17, 2024",Miami Heat,Philadelphia 76ers,104,105
+"Wed, Apr 17, 2024",Atlanta Hawks,Chicago Bulls,116,131
+"Fri, Apr 19, 2024",Chicago Bulls,Miami Heat,91,112
+"Fri, Apr 19, 2024",Sacramento Kings,New Orleans Pelicans,98,105
+"Sat, Apr 20, 2024",Orlando Magic,Cleveland Cavaliers,83,97
+"Sat, Apr 20, 2024",Phoenix Suns,Minnesota Timberwolves,95,120
+"Sat, Apr 20, 2024",Philadelphia 76ers,New York Knicks,104,111
+"Sat, Apr 20, 2024",Los Angeles Lakers,Denver Nuggets,103,114
+"Sun, Apr 21, 2024",Miami Heat,Boston Celtics,94,114
+"Sun, Apr 21, 2024",Dallas Mavericks,Los Angeles Clippers,97,109
+"Sun, Apr 21, 2024",Indiana Pacers,Milwaukee Bucks,94,109
+"Sun, Apr 21, 2024",New Orleans Pelicans,Oklahoma City Thunder,92,94
+"Mon, Apr 22, 2024",Orlando Magic,Cleveland Cavaliers,86,96
+"Mon, Apr 22, 2024",Philadelphia 76ers,New York Knicks,101,104
+"Mon, Apr 22, 2024",Los Angeles Lakers,Denver Nuggets,99,101
+"Tue, Apr 23, 2024",Phoenix Suns,Minnesota Timberwolves,93,105
+"Tue, Apr 23, 2024",Indiana Pacers,Milwaukee Bucks,125,108
+"Tue, Apr 23, 2024",Dallas Mavericks,Los Angeles Clippers,96,93
+"Wed, Apr 24, 2024",Miami Heat,Boston Celtics,111,101
+"Wed, Apr 24, 2024",New Orleans Pelicans,Oklahoma City Thunder,92,124
+"Thu, Apr 25, 2024",Cleveland Cavaliers,Orlando Magic,83,121
+"Thu, Apr 25, 2024",New York Knicks,Philadelphia 76ers,114,125
+"Thu, Apr 25, 2024",Denver Nuggets,Los Angeles Lakers,112,105
+"Fri, Apr 26, 2024",Milwaukee Bucks,Indiana Pacers,118,121
+"Fri, Apr 26, 2024",Los Angeles Clippers,Dallas Mavericks,90,101
+"Fri, Apr 26, 2024",Minnesota Timberwolves,Phoenix Suns,126,109
+"Sat, Apr 27, 2024",Cleveland Cavaliers,Orlando Magic,89,112
+"Sat, Apr 27, 2024",Oklahoma City Thunder,New Orleans Pelicans,106,85
+"Sat, Apr 27, 2024",Boston Celtics,Miami Heat,104,84
+"Sat, Apr 27, 2024",Denver Nuggets,Los Angeles Lakers,108,119
+"Sun, Apr 28, 2024",New York Knicks,Philadelphia 76ers,97,92
+"Sun, Apr 28, 2024",Los Angeles Clippers,Dallas Mavericks,116,111
+"Sun, Apr 28, 2024",Milwaukee Bucks,Indiana Pacers,113,126
+"Sun, Apr 28, 2024",Minnesota Timberwolves,Phoenix Suns,122,116
+"Mon, Apr 29, 2024",Boston Celtics,Miami Heat,102,88
+"Mon, Apr 29, 2024",Oklahoma City Thunder,New Orleans Pelicans,97,89
+"Mon, Apr 29, 2024",Los Angeles Lakers,Denver Nuggets,106,108
+"Tue, Apr 30, 2024",Philadelphia 76ers,New York Knicks,112,106
+"Tue, Apr 30, 2024",Orlando Magic,Cleveland Cavaliers,103,104
+"Tue, Apr 30, 2024",Indiana Pacers,Milwaukee Bucks,92,115
+"Wed, May 1, 2024",Miami Heat,Boston Celtics,84,118
+"Wed, May 1, 2024",Dallas Mavericks,Los Angeles Clippers,123,93
+"Thu, May 2, 2024",Milwaukee Bucks,Indiana Pacers,98,120
+"Thu, May 2, 2024",New York Knicks,Philadelphia 76ers,118,115
+"Fri, May 3, 2024",Cleveland Cavaliers,Orlando Magic,96,103
+"Fri, May 3, 2024",Los Angeles Clippers,Dallas Mavericks,101,114
+"Sat, May 4, 2024",Minnesota Timberwolves,Denver Nuggets,106,99
+"Sun, May 5, 2024",Orlando Magic,Cleveland Cavaliers,94,106
+"Mon, May 6, 2024",Indiana Pacers,New York Knicks,117,121
+"Mon, May 6, 2024",Minnesota Timberwolves,Denver Nuggets,106,80
+"Tue, May 7, 2024",Cleveland Cavaliers,Boston Celtics,95,120
+"Tue, May 7, 2024",Dallas Mavericks,Oklahoma City Thunder,95,117
+"Wed, May 8, 2024",Indiana Pacers,New York Knicks,121,130
+"Thu, May 9, 2024",Cleveland Cavaliers,Boston Celtics,118,94
+"Thu, May 9, 2024",Dallas Mavericks,Oklahoma City Thunder,119,110
+"Fri, May 10, 2024",New York Knicks,Indiana Pacers,106,111
+"Fri, May 10, 2024",Denver Nuggets,Minnesota Timberwolves,117,90
+"Sat, May 11, 2024",Oklahoma City Thunder,Dallas Mavericks,101,105
+"Sat, May 11, 2024",Boston Celtics,Cleveland Cavaliers,106,93
+"Sun, May 12, 2024",New York Knicks,Indiana Pacers,89,121
+"Sun, May 12, 2024",Denver Nuggets,Minnesota Timberwolves,115,107
+"Mon, May 13, 2024",Boston Celtics,Cleveland Cavaliers,109,102
+"Mon, May 13, 2024",Oklahoma City Thunder,Dallas Mavericks,100,96
+"Tue, May 14, 2024",Indiana Pacers,New York Knicks,91,121
+"Tue, May 14, 2024",Minnesota Timberwolves,Denver Nuggets,97,112
+"Wed, May 15, 2024",Cleveland Cavaliers,Boston Celtics,98,113
+"Wed, May 15, 2024",Dallas Mavericks,Oklahoma City Thunder,104,92
+"Thu, May 16, 2024",Denver Nuggets,Minnesota Timberwolves,70,115
+"Fri, May 17, 2024",New York Knicks,Indiana Pacers,103,116
+"Sat, May 18, 2024",Oklahoma City Thunder,Dallas Mavericks,116,117
+"Sun, May 19, 2024",Indiana Pacers,New York Knicks,130,109
+"Sun, May 19, 2024",Minnesota Timberwolves,Denver Nuggets,98,90
+"Tue, May 21, 2024",Indiana Pacers,Boston Celtics,128,133
+"Wed, May 22, 2024",Dallas Mavericks,Minnesota Timberwolves,108,105
+"Thu, May 23, 2024",Indiana Pacers,Boston Celtics,110,126
+"Fri, May 24, 2024",Dallas Mavericks,Minnesota Timberwolves,109,108
+"Sat, May 25, 2024",Boston Celtics,Indiana Pacers,114,111
+"Sun, May 26, 2024",Minnesota Timberwolves,Dallas Mavericks,107,116
+"Mon, May 27, 2024",Boston Celtics,Indiana Pacers,105,102
+"Tue, May 28, 2024",Minnesota Timberwolves,Dallas Mavericks,105,100
+"Thu, May 30, 2024",Dallas Mavericks,Minnesota Timberwolves,124,103
+"Thu, Jun 6, 2024",Dallas Mavericks,Boston Celtics,89,107
+"Sun, Jun 9, 2024",Dallas Mavericks,Boston Celtics,98,105
+"Wed, Jun 12, 2024",Boston Celtics,Dallas Mavericks,106,99
+"Fri, Jun 14, 2024",Boston Celtics,Dallas Mavericks,84,122
+"Mon, Jun 17, 2024",Dallas Mavericks,Boston Celtics,88,106
